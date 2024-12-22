@@ -1,0 +1,2788 @@
+[
+  {
+    "clan_tag": ";(",
+    "clan_name": ";c",
+    "member_count": 3,
+    "clan_invite": "https://discord.gg/KvQEKt2H3U",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/972253578016210985/e701df75ce906698f0d02ce19bf7c8c6.png?size=16"
+  },
+  {
+    "clan_tag": "FBI",
+    "clan_name": "F.B.I",
+    "member_count": 5,
+    "clan_invite": "https://discord.gg/d4jdC2GwvG",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1260169376041275422/b1dc33d557c4d3c9db80ac12762f5b9f.png?size=16"
+  },
+  {
+    "clan_tag": "milk",
+    "clan_name": "milk",
+    "member_count": 6,
+    "clan_invite": "https://discord.gg/Vs6YUApuHT",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1202212263285493761/b1dc33d557c4d3c9db80ac12762f5b9f.png?size=16"
+  },
+  {
+    "clan_tag": "Tour",
+    "clan_name": "Tourneo's Home | .gg/guilds-home",
+    "member_count": 7,
+    "clan_invite": "https://discord.gg/dRTkGKeg",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1177075988262301766/7f968d34689b032120d7a0f2a3d69b83.png?size=16"
+  },
+  {
+    "clan_tag": "АPP",
+    "clan_name": ".gg/curl #APP",
+    "member_count": 12,
+    "clan_invite": "https://discord.gg/weight",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1244689413141692576/284e144e151362820334230b2d57bee0.png?size=16"
+  },
+  {
+    "clan_tag": "< 3",
+    "clan_name": "<3",
+    "member_count": 14,
+    "clan_invite": "https://discord.gg/aQgCyGMCV4",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1162118669472641024/80e5e6bdbdd81e95b650670b2afba2cc.png?size=16"
+  },
+  {
+    "clan_tag": "ً ً",
+    "clan_name": ".gg/punk",
+    "member_count": 15,
+    "clan_invite": "https://discord.gg/PcAjbngSrX",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1031082314224115742/e701df75ce906698f0d02ce19bf7c8c6.png?size=16"
+  },
+  {
+    "clan_tag": "EzPz",
+    "clan_name": ".gg/curl #EzPz",
+    "member_count": 15,
+    "clan_invite": "https://discord.gg/JZNNPUDpws",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1259007184243785728/61d0736942b384e20a51a864d75dbcea.png?size=16"
+  },
+  {
+    "clan_tag": "FRA",
+    "clan_name": "French Admins",
+    "member_count": 17,
+    "clan_invite": "https://discord.gg/Fra",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1206486815977246770/071c0f7c2ee16bffdcc92d5eda6e902b.png?size=16"
+  },
+  {
+    "clan_tag": "឵឵឵",
+    "clan_name": "᲼᲼",
+    "member_count": 18,
+    "clan_invite": "https://discord.gg/2Uqujp69aQ",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1175959847997546516/58b6cfc8ac0387dd3447849c212e25e5.png?size=16"
+  },
+  {
+    "clan_tag": "୨ৎ",
+    "clan_name": "secret guild 🍥",
+    "member_count": 18,
+    "clan_invite": "https://discord.gg/HRPPZ3SssY",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1217578687155667024/2adab6a8a8ac5e9179efc531a108263c.png?size=16"
+  },
+  {
+    "clan_tag": "BAN",
+    "clan_name": "banned",
+    "member_count": 18,
+    "clan_invite": "https://discord.gg/banned",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1224344452739502262/c08ecb1ef98d938294b1db84ca629ef7.png?size=16"
+  },
+  {
+    "clan_tag": "COLD",
+    "clan_name": "The Council",
+    "member_count": 18,
+    "clan_invite": "https://discord.gg/path",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1121518436468662383/2d9908aeb26b0c8d246dbd97f8258a72.png?size=16"
+  },
+  {
+    "clan_tag": "OFF",
+    "clan_name": ".gg/curl #Off",
+    "member_count": 18,
+    "clan_invite": "https://discord.gg/xvTw7hkCHw",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/928820497087594506/86735389348f3eacfa519eb553df38fd.png?size=16"
+  },
+  {
+    "clan_tag": "224",
+    "clan_name": "v ♡ b",
+    "member_count": 19,
+    "clan_invite": "https://discord.gg/zrFTyn75wA",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1165776124471689277/e2b8a37aa14b4267fda7787367152db4.png?size=16"
+  },
+  {
+    "clan_tag": "777",
+    "clan_name": ".gg/FearGG",
+    "member_count": 20,
+    "clan_invite": "https://discord.gg/n4pzp4B63X",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1240003923318804583/6473797948e6d36a991e425c8b7c353c.png?size=16"
+  },
+  {
+    "clan_tag": "SHMC",
+    "clan_name": "SpectralHaven",
+    "member_count": 23,
+    "clan_invite": "https://discord.gg/2XD7Ruqg",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1246606511678165124/a950eda4ca8ba03a0751ced780e7d408.png?size=16"
+  },
+  {
+    "clan_tag": "BTC",
+    "clan_name": ".gg/curl #BTC",
+    "member_count": 32,
+    "clan_invite": "https://discord.gg/EPsgSnz84J",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1256622680065577094/f369daba8932a09be8a949185c926158.png?size=16"
+  },
+  {
+    "clan_tag": "Lazy",
+    "clan_name": "[Lazy] .gg/sleepyguilds",
+    "member_count": 32,
+    "clan_invite": "https://discord.gg/DSvMaydCj7",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1266459856395698298/aef7738ba114e121d617c8c20bf7f1d6.png?size=16"
+  },
+  {
+    "clan_tag": "OwO",
+    "clan_name": ".gg/curl #OwO",
+    "member_count": 32,
+    "clan_invite": "https://discord.gg/BHdYjXtm88",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1226285932966056087/0f2c564e2dc82404fc8175a65dc64df7.png?size=16"
+  },
+  {
+    "clan_tag": "7th",
+    "clan_name": "Seijin",
+    "member_count": 37,
+    "clan_invite": "https://discord.gg/QB98F8WxJP",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1098540647926988830/723f9e19e5a65a7ee484a517b159e3cf.png?size=16"
+  },
+  {
+    "clan_tag": "BOBA",
+    "clan_name": "BOBA",
+    "member_count": 37,
+    "clan_invite": "https://discord.gg/w83dGM7rYH",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1240686053883510845/775e46311d963ebd4fec7080fe7a80b4.png?size=16"
+  },
+  {
+    "clan_tag": "𐌔𐌕",
+    "clan_name": ".gg/curl #𐌔𐌕",
+    "member_count": 38,
+    "clan_invite": "https://discord.gg/qVgjTGZGFj",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1207420974442741780/c08ecb1ef98d938294b1db84ca629ef7.png?size=16"
+  },
+  {
+    "clan_tag": "374",
+    "clan_name": ".gg/bend #374",
+    "member_count": 45,
+    "clan_invite": "https://discord.gg/ZkmZRE6YN3",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1186199885310066688/e1080e868fea00759ab79050d5cf0eb2.png?size=16"
+  },
+  {
+    "clan_tag": "AGNB",
+    "clan_name": "ALL GUNS NO BALLS",
+    "member_count": 46,
+    "clan_invite": "https://discord.gg/agnb",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1221531107007135826/4f25524787fd4a78abbe4cf889599ea7.png?size=16"
+  },
+  {
+    "clan_tag": "THM",
+    "clan_name": "The Hidden Musicians",
+    "member_count": 47,
+    "clan_invite": "https://discord.gg/v48HAZ7M",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/798458701148454943/d17909ef63883ab076c7477a09c26a8c.png?size=16"
+  },
+  {
+    "clan_tag": ":3",
+    "clan_name": "crackheads",
+    "member_count": 50,
+    "clan_invite": "https://discord.gg/EUwsUgaF",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/592918539371806769/eb1aae0f04da2ae0a82fe8c20b85cc72.png?size=16"
+  },
+  {
+    "clan_tag": "meow",
+    "clan_name": "/wealthy",
+    "member_count": 51,
+    "clan_invite": "https://discord.gg/daHURugfQy",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1249747821020581928/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=16"
+  },
+  {
+    "clan_tag": "CLDC",
+    "clan_name": "Coastline - FiveM Drift Club",
+    "member_count": 52,
+    "clan_invite": "https://discord.gg/qY3NZwuk",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/589606352247193630/e05ecd5875a2e1daee2ed1df612462b5.png?size=16"
+  },
+  {
+    "clan_tag": "bat",
+    "clan_name": "nightclass",
+    "member_count": 54,
+    "clan_invite": "https://discord.gg/bats",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1251993186939830285/80e5e6bdbdd81e95b650670b2afba2cc.png?size=16"
+  },
+  {
+    "clan_tag": "ᓚᘏᗢ",
+    "clan_name": "Bread",
+    "member_count": 55,
+    "clan_invite": "https://discord.gg/sticks",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/625545067716935681/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=16"
+  },
+  {
+    "clan_tag": "PSL",
+    "clan_name": "PSL",
+    "member_count": 58,
+    "clan_invite": "https://discord.gg/GFXPvjhq",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1052372206384058388/1a3f71da426a1ab3e073026d284e0a86.png?size=16"
+  },
+  {
+    "clan_tag": "DFSA",
+    "clan_name": "Wha13s",
+    "member_count": 59,
+    "clan_invite": "https://discord.gg/et8ytbqv",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/211300917457190913/60695e0f6c7a5b9eb60a5be14d471158.png?size=16"
+  },
+  {
+    "clan_tag": "ICC",
+    "clan_name": "Infinity Castle",
+    "member_count": 59,
+    "clan_invite": "https://discord.gg/5jgsrqN3ZR",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1007905450257285250/ba8a90eede32aca30ce7305dfb77b4cd.png?size=16"
+  },
+  {
+    "clan_tag": "SCZF",
+    "clan_name": "SC: Zeta Force",
+    "member_count": 59,
+    "clan_invite": "https://discord.gg/mtF3579y",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/539639872370114582/934881bf55c263ac21e467d53e811997.png?size=16"
+  },
+  {
+    "clan_tag": "ܔܔܛܔ",
+    "clan_name": ".gg/curl #ܔܔܛܔ",
+    "member_count": 59,
+    "clan_invite": "https://discord.gg/rzAyBP3DGp",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1177334379190702230/48159618da54d415fc5c27c32daca930.png?size=16"
+  },
+  {
+    "clan_tag": "BBTV",
+    "clan_name": "BlamingBuddha Club House",
+    "member_count": 60,
+    "clan_invite": "https://discord.gg/2afnZ57Aap",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/891104937273085984/58577553e289fa56d6e29b2b89536fcd.png?size=16"
+  },
+  {
+    "clan_tag": "cozy",
+    "clan_name": "owa owa",
+    "member_count": 61,
+    "clan_invite": "https://discord.gg/JnzwhZHA",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/808514976197247037/0b2c086ffa8eee689dd2ab44d8665d7d.png?size=16"
+  },
+  {
+    "clan_tag": "사랑",
+    "clan_name": "사랑　.gg/blankets",
+    "member_count": 62,
+    "clan_invite": "https://discord.gg/s6GCs3UUZe",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1240794506110963762/9b43d5ec59ffd0a187b7d343ac707643.png?size=16"
+  },
+  {
+    "clan_tag": "RMS",
+    "clan_name": "RICH MONEY SQUAD",
+    "member_count": 63,
+    "clan_invite": "https://discord.gg/X7z4tmDc",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/675212061290266636/5607047f21b7e25a26c195cc49871278.png?size=16"
+  },
+  {
+    "clan_tag": "PKMN",
+    "clan_name": "pkmn",
+    "member_count": 64,
+    "clan_invite": "https://discord.gg/Dxr6DnZffg",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1238372918258569236/b095cb2291d96f56e38368ace958eb99.png?size=16"
+  },
+  {
+    "clan_tag": "sowd",
+    "clan_name": "Sowd",
+    "member_count": 65,
+    "clan_invite": "https://discord.gg/AJdHGKDRHa",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/816479325342793748/40a7aa796426347d6b76d20dfed2c273.png?size=16"
+  },
+  {
+    "clan_tag": "୨ৎ",
+    "clan_name": ".gg/curl #୨ৎ",
+    "member_count": 68,
+    "clan_invite": "https://discord.gg/WG99SXaMNs",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1257211031306899518/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=16"
+  },
+  {
+    "clan_tag": "MEOW",
+    "clan_name": "Shaun's Cloud ✦",
+    "member_count": 69,
+    "clan_invite": "https://discord.gg/hZSy7YRsSX",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/427067963137589258/e9eebc59f8cbb87d52e352e4fc1fd10d.png?size=16"
+  },
+  {
+    "clan_tag": "DVIL",
+    "clan_name": "The Last Drop",
+    "member_count": 70,
+    "clan_invite": "https://discord.gg/adXjT4By",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/794441802530160650/feea1e2e307f18b01cdc2aa70e5029d5.png?size=16"
+  },
+  {
+    "clan_tag": "HFH",
+    "clan_name": "The HFH Enterprise",
+    "member_count": 70,
+    "clan_invite": "https://discord.gg/liit",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/655939044282466304/b90b8330bbab0c126b5ead42e3fd2344.png?size=16"
+  },
+  {
+    "clan_tag": "TEKI",
+    "clan_name": "TEKI",
+    "member_count": 70,
+    "clan_invite": "https://discord.gg/cuteuwu",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1057075229417033748/b22e54dc8c39387f2824859757a6ac97.png?size=16"
+  },
+  {
+    "clan_tag": "Acid",
+    "clan_name": "Acids<3",
+    "member_count": 71,
+    "clan_invite": "https://discord.gg/Mfe2PmHZGX",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1029833053113176104/f8d18346977c4b2ccc41c847763ebb43.png?size=16"
+  },
+  {
+    "clan_tag": "VIP",
+    "clan_name": "Discord Partners Guild",
+    "member_count": 71,
+    "clan_invite": "https://discord.gg/partners-guild",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1262843466119909488/cec2f3c57e2da6ac7c64c45787930ce4.png?size=16"
+  },
+  {
+    "clan_tag": "CGGS",
+    "clan_name": "Cat Girl Gang System",
+    "member_count": 72,
+    "clan_invite": "https://discord.gg/eJ4VKwQSYt",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/973614983969636452/4bb94dd81786634c4e1c0e6a04df18cc.png?size=16"
+  },
+  {
+    "clan_tag": "EL13",
+    "clan_name": "ElliNet13's Guild",
+    "member_count": 73,
+    "clan_invite": "https://discord.gg/Th7JRnC436",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1156318744050675762/e05ecd5875a2e1daee2ed1df612462b5.png?size=16"
+  },
+  {
+    "clan_tag": "ᶠᶸᶜᵏ",
+    "clan_name": ".gg/repressed (activity for tag)",
+    "member_count": 73,
+    "clan_invite": "https://discord.gg/YWext4R8P2",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1144275124103684146/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=16"
+  },
+  {
+    "clan_tag": "ROFL",
+    "clan_name": "Roflaesia",
+    "member_count": 73,
+    "clan_invite": "https://discord.gg/vyPHS4h7yT",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/747482983174373462/c83d55c21a7eadec9541ac718e778116.png?size=16"
+  },
+  {
+    "clan_tag": "Zzz",
+    "clan_name": "[Zzz] .gg/sleepyguilds",
+    "member_count": 73,
+    "clan_invite": "https://discord.gg/zzzgang",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1142702955741589524/5d3a63fcaa14be32f8196574c7469b0f.png?size=16"
+  },
+  {
+    "clan_tag": "MIS",
+    "clan_name": "Maruchan Squad :p",
+    "member_count": 78,
+    "clan_invite": "https://discord.gg/NXWap7rCgG",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/782845759506219020/f3e6123daa386d49b99abd0e2fe6a6e6.png?size=16"
+  },
+  {
+    "clan_tag": "BED",
+    "clan_name": "[BED] .gg/sleepyguilds",
+    "member_count": 80,
+    "clan_invite": "https://discord.gg/Kuzb99QcKQ",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1240870507872522312/354ca0ff90d810dcc8a02be476a18921.png?size=16"
+  },
+  {
+    "clan_tag": "GAIA",
+    "clan_name": "𝓟𝓻𝓸𝓳𝓮𝓬𝓽 - GΛIΛ",
+    "member_count": 80,
+    "clan_invite": "https://discord.gg/eXaM3XAXwA",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/742881805341818940/ae4c227ac0505b6d1858e1301926f0a4.png?size=16"
+  },
+  {
+    "clan_tag": "ZOTY",
+    "clan_name": "Valorant boot camp",
+    "member_count": 80,
+    "clan_invite": "https://discord.gg/CStKmjBY",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/926912606990630953/e9eebc59f8cbb87d52e352e4fc1fd10d.png?size=16"
+  },
+  {
+    "clan_tag": "GOJO",
+    "clan_name": "maid cafe ♡",
+    "member_count": 81,
+    "clan_invite": "https://discord.gg/369RNh8Z",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/842278276231462933/297abbed74512cbea5a45292bf5514f6.png?size=16"
+  },
+  {
+    "clan_tag": "MEOW",
+    "clan_name": "Garden of Meowden",
+    "member_count": 82,
+    "clan_invite": "https://discord.gg/meowden",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1127167060175229000/8b3ac6815c13f03908ebb2c24e2770d7.png?size=16"
+  },
+  {
+    "clan_tag": "NUEL",
+    "clan_name": "𝘕𝘶𝘌𝘭𝘦𝘮𝘦𝘯𝘵 ✨",
+    "member_count": 82,
+    "clan_invite": "https://discord.gg/M73d8neW",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/602302461918707722/934881bf55c263ac21e467d53e811997.png?size=16"
+  },
+  {
+    "clan_tag": ">:3",
+    "clan_name": "High Fructose Corn Syrup",
+    "member_count": 83,
+    "clan_invite": "https://discord.gg/hYnb5gbJ",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1077871963621564456/2a3f69207b1f99b79111542bd6bda178.png?size=16"
+  },
+  {
+    "clan_tag": "999",
+    "clan_name": "Extinction",
+    "member_count": 83,
+    "clan_invite": "https://discord.gg/mSC2cyCG",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1118680205733666836/78b1ebb6b97565376cb5345a0631e362.png?size=16"
+  },
+  {
+    "clan_tag": "DUST",
+    "clan_name": "ChaosBorne (DUSTYFLAMES PORTFOLIO)",
+    "member_count": 83,
+    "clan_invite": "https://discord.gg/w6PypV6G",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/999342649272184902/33cd5ff0f7aa6bff5a93d5a3e748af79.png?size=16"
+  },
+  {
+    "clan_tag": "gay",
+    "clan_name": "BluSMP",
+    "member_count": 84,
+    "clan_invite": "https://discord.gg/xPuBeVPX",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/832634765798539265/5f0404ec39b6724bf523b9ece78ccbd6.png?size=16"
+  },
+  {
+    "clan_tag": "waﬄe",
+    "clan_name": "waﬄe | .gg/guildtag .gg/freetag",
+    "member_count": 85,
+    "clan_invite": "https://discord.gg/H7RYCHKfKj",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1248073796758409286/4c6b987648217084cc4371c4f129b87b.png?size=16"
+  },
+  {
+    "clan_tag": "HBBL",
+    "clan_name": "HUBBOL",
+    "member_count": 86,
+    "clan_invite": "https://discord.gg/za7UfB6j",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/714078051666755635/fa9cc80236e71715c90d24db7ee9eb53.png?size=16"
+  },
+  {
+    "clan_tag": "PP",
+    "clan_name": "pastapeter's palace",
+    "member_count": 90,
+    "clan_invite": "https://discord.gg/YMsx9VDB",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1073499821375225896/95a01cca7ed682ea116a89c4dc218a9f.png?size=16"
+  },
+  {
+    "clan_tag": "DAMS",
+    "clan_name": "Snezhnaya Waiting Room",
+    "member_count": 92,
+    "clan_invite": "https://discord.gg/dams",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1046199778993782804/33064730dad4b84e202042ae6054256b.png?size=16"
+  },
+  {
+    "clan_tag": "meme",
+    "clan_name": "/memeified 🎭",
+    "member_count": 94,
+    "clan_invite": "https://discord.gg/fooc",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1149441699123306586/ba8a90eede32aca30ce7305dfb77b4cd.png?size=16"
+  },
+  {
+    "clan_tag": "ʚɞ⁺˖",
+    "clan_name": "💜 𝖳𝗐𝗂𝖻'𝗌 𝖦𝗎𝗂𝗅𝖽 💜",
+    "member_count": 95,
+    "clan_invite": "https://discord.gg/twib",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/670374456648007701/0a16eb4743514bd5b290e7a2d92eae7e.png?size=16"
+  },
+  {
+    "clan_tag": "RꜸ”",
+    "clan_name": "Ravenguild❞",
+    "member_count": 95,
+    "clan_invite": "https://discord.gg/a2dAwaD9xt",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/564011769010323456/972a21b5140307824ee09d388620aacd.png?size=16"
+  },
+  {
+    "clan_tag": "İLAH",
+    "clan_name": "ILAH",
+    "member_count": 96,
+    "clan_invite": "https://discord.gg/lavion",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/790251371449548834/9b43d5ec59ffd0a187b7d343ac707643.png?size=16"
+  },
+  {
+    "clan_tag": "cat",
+    "clan_name": "sleepocat",
+    "member_count": 97,
+    "clan_invite": "https://discord.gg/FmuEGn28",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/762756109210877964/b361b847b8efa89b40ecb04c6d8e79ea.png?size=16"
+  },
+  {
+    "clan_tag": "^_^",
+    "clan_name": "^_^",
+    "member_count": 98,
+    "clan_invite": "https://discord.gg/emoticons",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1247268142879604810/86735389348f3eacfa519eb553df38fd.png?size=16"
+  },
+  {
+    "clan_tag": "kona",
+    "clan_name": "Konacord 💜",
+    "member_count": 98,
+    "clan_invite": "https://discord.gg/konacord",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/983557861403684954/439c5b7117f3f3e8e574b4766d1b7e73.png?size=16"
+  },
+  {
+    "clan_tag": "bal!",
+    "clan_name": "Potato Hangout",
+    "member_count": 99,
+    "clan_invite": "https://discord.gg/rXdeh2aFR6",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/318870647692460034/89550a47bcb22f8adc8984930bf58f0d.png?size=16"
+  },
+  {
+    "clan_tag": "UNİX",
+    "clan_name": ".gg/curl #UNİX",
+    "member_count": 101,
+    "clan_invite": "https://discord.gg/unixguild",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1221100083341168650/68f1fcceccc2ba02e156952b3b04c2c3.png?size=16"
+  },
+  {
+    "clan_tag": "cry",
+    "clan_name": "cry - /selfbot",
+    "member_count": 102,
+    "clan_invite": "https://discord.gg/SbGASAvfGG",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/768917113678856202/cc58436d787a196fd318e82728816f7e.png?size=16"
+  },
+  {
+    "clan_tag": "PHNX",
+    "clan_name": "Phoenix PMC",
+    "member_count": 102,
+    "clan_invite": "https://discord.gg/u6nqaACJRS",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1061117037486800916/2397edfe9748b3a4ed81c1b5efe2d59b.png?size=16"
+  },
+  {
+    "clan_tag": "MAGI",
+    "clan_name": "Magi Mafia",
+    "member_count": 103,
+    "clan_invite": "https://discord.gg/magi",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/692787705213354095/9cb1e59dc37a156c7671c9b575cb8e5d.png?size=16"
+  },
+  {
+    "clan_tag": "444",
+    "clan_name": "么 Abuse",
+    "member_count": 105,
+    "clan_invite": "https://discord.gg/theabuse",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1234604446143741982/b21c5a192769d872f94a426c042e5426.png?size=16"
+  },
+  {
+    "clan_tag": "Deki",
+    "clan_name": "Scratchin' Moddin' (Gamebanana)",
+    "member_count": 105,
+    "clan_invite": "https://discord.gg/EDx4RvUA",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1037720218786607196/641686d07541b6d4295d17132df8c573.png?size=16"
+  },
+  {
+    "clan_tag": "DEV",
+    "clan_name": "[DEV] Development Guild | .gg/peretas",
+    "member_count": 105,
+    "clan_invite": "https://discord.gg/FFf3EKruRx",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1050867077742870558/bb6f447245dd4c9243d2aeb61d26154d.png?size=16"
+  },
+  {
+    "clan_tag": "GOON",
+    "clan_name": ".gg/bait (#GOON)",
+    "member_count": 105,
+    "clan_invite": "https://discord.gg/Gwcp8bfpsM",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1264487367117639713/0cce85d6107a856ec520593003348391.png?size=16"
+  },
+  {
+    "clan_tag": "SSSS",
+    "clan_name": "STAGE GANG",
+    "member_count": 105,
+    "clan_invite": "https://discord.gg/bJr5g9n2c5",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1084435757445435503/b6f6582eb0301ce069e00b2a99323975.png?size=16"
+  },
+  {
+    "clan_tag": "FUJI",
+    "clan_name": "FujiCraft.net",
+    "member_count": 106,
+    "clan_invite": "https://discord.gg/5Qs25ARqhv",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1107849902408601643/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=16"
+  },
+  {
+    "clan_tag": "PXL",
+    "clan_name": "Pixel's Server",
+    "member_count": 106,
+    "clan_invite": "https://discord.gg/pM6SDjk7",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1083179010630111282/cbd815dbf44e6114de3211d9dcf45de7.png?size=16"
+  },
+  {
+    "clan_tag": "HARM",
+    "clan_name": "HARM JOIN /Swattingg TO APPLY",
+    "member_count": 107,
+    "clan_invite": "https://discord.gg/Hujrfz6hdG",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1247374580201422948/fca3a43f8d02215d2c6a329080e2c767.png?size=16"
+  },
+  {
+    "clan_tag": "Luﬀy",
+    "clan_name": ".gg/curl #Luffy",
+    "member_count": 107,
+    "clan_invite": "https://discord.gg/luffyguild",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1244402187707220118/d967b2ebe90705020844f18e38884261.png?size=16"
+  },
+  {
+    "clan_tag": "$ha",
+    "clan_name": "♱　𓏲　yes　𓈒",
+    "member_count": 110,
+    "clan_invite": "https://discord.gg/QfA43Hsuvc",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1160975720038801488/2d8bea68b3152b52858942d2bc854cc7.png?size=16"
+  },
+  {
+    "clan_tag": "haha",
+    "clan_name": "#fyb",
+    "member_count": 110,
+    "clan_invite": "https://discord.gg/fyb",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1228339756874862693/1ee3537ad09da1929ee8a25a6be6a16a.png?size=16"
+  },
+  {
+    "clan_tag": "POOP",
+    "clan_name": "An Imaginary Caboner",
+    "member_count": 110,
+    "clan_invite": "https://discord.gg/fJZ9WC9Z",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/279860162959769600/9e04aae50c82ec41032dd733c8d0d960.png?size=16"
+  },
+  {
+    "clan_tag": "九頭蛇",
+    "clan_name": "HydraDen 2024",
+    "member_count": 110,
+    "clan_invite": "https://discord.gg/CMsUZYbw",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/250402404837752833/6d0fc31c70a6c4df5e2e449ecccfb6e4.png?size=16"
+  },
+  {
+    "clan_tag": "lovu",
+    "clan_name": "𝐵𝓊𝓃𝓃𝒾'𝓈 𝐵𝓊𝓇𝓇𝑜𝓌",
+    "member_count": 111,
+    "clan_invite": "https://discord.gg/JBvYPkpK",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1151638553265180672/e701df75ce906698f0d02ce19bf7c8c6.png?size=16"
+  },
+  {
+    "clan_tag": "DGTS",
+    "clan_name": "🍭⋆｡‧˚ʚＤＩＧＩＴＳɞ˚‧｡⋆🍭",
+    "member_count": 112,
+    "clan_invite": "https://discord.gg/YQxDzYwB",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1173548058101940235/40a7aa796426347d6b76d20dfed2c273.png?size=16"
+  },
+  {
+    "clan_tag": "drug",
+    "clan_name": "perc",
+    "member_count": 112,
+    "clan_invite": "https://discord.gg/shroom",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1222023306132193281/78b1ebb6b97565376cb5345a0631e362.png?size=16"
+  },
+  {
+    "clan_tag": "TXT",
+    "clan_name": "Potato.",
+    "member_count": 112,
+    "clan_invite": "https://discord.gg/6xE2r82gJd",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/565324376291934239/074d271a39233dbefd44690e8b63cbef.png?size=16"
+  },
+  {
+    "clan_tag": "FISH",
+    "clan_name": "Fishtopia",
+    "member_count": 114,
+    "clan_invite": "https://discord.gg/pThZbRWSp6",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/824681458995822692/8519cad984904dc7157765ae7b36e7ee.png?size=16"
+  },
+  {
+    "clan_tag": "D'ゲン",
+    "clan_name": "Ｄ’ゲン",
+    "member_count": 115,
+    "clan_invite": "https://discord.gg/Y6MFfnWw",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/519397898430185476/439c5b7117f3f3e8e574b4766d1b7e73.png?size=16"
+  },
+  {
+    "clan_tag": "sun",
+    "clan_name": "Jams Journal",
+    "member_count": 115,
+    "clan_invite": "https://discord.gg/HCnRtBPq5f",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1074073920514293820/0eede3bab200232be7e9056d58f3acc1.png?size=16"
+  },
+  {
+    "clan_tag": "GARY",
+    "clan_name": "Meeep’s Palace",
+    "member_count": 116,
+    "clan_invite": "https://discord.gg/zDCNs3qn",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/784611535238594580/c321bc7478b6fcdde4e5640576013cc9.png?size=16"
+  },
+  {
+    "clan_tag": "Game",
+    "clan_name": "The High Society",
+    "member_count": 120,
+    "clan_invite": "https://discord.gg/dgw8XPGv",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/433824178832146432/ba4666ec684b28253c036851b97de8a9.png?size=16"
+  },
+  {
+    "clan_tag": "PV",
+    "clan_name": "Synergy PV",
+    "member_count": 120,
+    "clan_invite": "https://discord.gg/atWBYH7y",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1133738117162074202/3da695a3845833b28878ed0d3d86dec6.png?size=16"
+  },
+  {
+    "clan_tag": "café",
+    "clan_name": "tsokolatté",
+    "member_count": 121,
+    "clan_invite": "https://discord.gg/8hRuq7CSFH",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/798656794229604412/770aec8a81992fc5108a0bfa37e78ecd.png?size=16"
+  },
+  {
+    "clan_tag": "SICK",
+    "clan_name": "Jolly At Night",
+    "member_count": 121,
+    "clan_invite": "https://discord.gg/sickatnight",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1125989835207884822/d51a01ac4b18626b866f48ea9741c8ee.png?size=16"
+  },
+  {
+    "clan_tag": "NP24",
+    "clan_name": "The New Pantheon",
+    "member_count": 123,
+    "clan_invite": "https://discord.gg/v6KST6Pk",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/607092573948870688/5945286adec4d0a484b8b0b2b9f5a42a.png?size=16"
+  },
+  {
+    "clan_tag": "Lads",
+    "clan_name": "🎮 ᴛʜᴇ ʟᴀᴅꜱ ꜰᴏʀᴛ",
+    "member_count": 124,
+    "clan_invite": "https://discord.gg/5w9bXeTm4h",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/889657394957778954/35b0aab4b8bd8ffab2cd500812b39f9a.png?size=16"
+  },
+  {
+    "clan_tag": "AURA",
+    "clan_name": "aura.co",
+    "member_count": 126,
+    "clan_invite": "https://discord.gg/cMMYVyWK9K",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1240034711653449728/701bcec91a1e8da848f714470bf49be3.png?size=16"
+  },
+  {
+    "clan_tag": "butt",
+    "clan_name": "Butt Penthouse",
+    "member_count": 126,
+    "clan_invite": "https://discord.gg/lovebutt",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/439620750538702849/de1fa844a69355d46bdb0ccda3a3ae38.png?size=16"
+  },
+  {
+    "clan_tag": "high",
+    "clan_name": "high・/plant",
+    "member_count": 126,
+    "clan_invite": "https://discord.gg/plant",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/776330208348733460/035a4dd37434c595b6ab9c38c617b583.png?size=16"
+  },
+  {
+    "clan_tag": "ICON",
+    "clan_name": "Icons Guild",
+    "member_count": 127,
+    "clan_invite": "https://discord.gg/BfEvxdaY8T",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/933849113987014656/dc45c2f77dcfca0b0c99d44fdd3e2b15.png?size=16"
+  },
+  {
+    "clan_tag": "我爱你",
+    "clan_name": "we h8 jennifer pt. 2",
+    "member_count": 127,
+    "clan_invite": "https://discord.gg/WjJcjS7sxE",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/947377735272103946/48eebe0c3d5f2b76be61e5036b473e09.png?size=16"
+  },
+  {
+    "clan_tag": "CAT",
+    "clan_name": "Frat's Cat Crew",
+    "member_count": 129,
+    "clan_invite": "https://discord.gg/WWuagPve",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1170877420400808016/e929e1c0111f2acf104ba53aefc5ee44.png?size=16"
+  },
+  {
+    "clan_tag": "ily",
+    "clan_name": "Galletyle Gamers",
+    "member_count": 130,
+    "clan_invite": "https://discord.gg/galletylegamers",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/800335952094167080/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=16"
+  },
+  {
+    "clan_tag": "XOXO",
+    "clan_name": "Beiring&Friends",
+    "member_count": 130,
+    "clan_invite": "https://discord.gg/QcHXSFer",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/496057273311952896/3f88bae05ebb92bccadddd902bad2bb6.png?size=16"
+  },
+  {
+    "clan_tag": "PRXY",
+    "clan_name": "PROXY",
+    "member_count": 133,
+    "clan_invite": "https://discord.gg/Wn8j8KfVKB",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/928075328595820554/6082c2553b03b47ccaea5203567df3cf.png?size=16"
+  },
+  {
+    "clan_tag": "PORK",
+    "clan_name": "The Kingdom of Pork",
+    "member_count": 134,
+    "clan_invite": "https://discord.gg/NhFDFF8xxC",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1169426172086583306/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=16"
+  },
+  {
+    "clan_tag": "𝐒𝐋",
+    "clan_name": "ynwcurly",
+    "member_count": 137,
+    "clan_invite": "https://discord.gg/PcFFETjp",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1223345717783957647/58271fb362c4464a4ebead69a2ec0f72.png?size=16"
+  },
+  {
+    "clan_tag": "ᗪIᐯᗩ",
+    "clan_name": "𝙱𝚞𝚗𝚗𝚢 𝙱𝚞𝚗𝚐𝚊𝚕𝚘𝚠",
+    "member_count": 138,
+    "clan_invite": "https://discord.gg/Nj5BAMMc",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1226012685015973899/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=16"
+  },
+  {
+    "clan_tag": "GTA6",
+    "clan_name": ".gg/gta6rp / Owner : Kasahi",
+    "member_count": 140,
+    "clan_invite": "https://discord.gg/gta6rp",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1126768530776404051/1e22f8e6dd23df32b2cf6f6715c8c200.png?size=16"
+  },
+  {
+    "clan_tag": "أنغو",
+    "clan_name": ".gg/busy owns this #死去",
+    "member_count": 140,
+    "clan_invite": "https://discord.gg/raEv5QdDgH",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1255456345541443635/8310875c9dd4ccb1967794f91de26866.png?size=16"
+  },
+  {
+    "clan_tag": "CHOM",
+    "clan_name": "Chomperling",
+    "member_count": 141,
+    "clan_invite": "https://discord.gg/XBxfrJJCSc",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/985692255367094302/013fcce5a94461ee44874b658df11693.png?size=16"
+  },
+  {
+    "clan_tag": "FOSS",
+    "clan_name": "FOSS",
+    "member_count": 141,
+    "clan_invite": "https://discord.gg/DxFdrndT",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/742089740215386163/692680e55c338964b2b71f5aab732761.png?size=16"
+  },
+  {
+    "clan_tag": "GMES",
+    "clan_name": "Box-Of-Foxes...",
+    "member_count": 141,
+    "clan_invite": "https://discord.gg/9mvxvCga",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/866862225569480735/e929e1c0111f2acf104ba53aefc5ee44.png?size=16"
+  },
+  {
+    "clan_tag": "GAFS",
+    "clan_name": "Gamers and Friends",
+    "member_count": 142,
+    "clan_invite": "https://discord.gg/8ADzHgkPU9",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/853451659199119362/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=16"
+  },
+  {
+    "clan_tag": "NEMO",
+    "clan_name": "Party Animal",
+    "member_count": 142,
+    "clan_invite": "https://discord.gg/M9UbrBcVA7",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/818158519165255700/ac50208ede7c24e90aeff654fb1636f4.png?size=16"
+  },
+  {
+    "clan_tag": "ᓚᘏᗢ",
+    "clan_name": "˚₊‧꒰ა 𝒉𝒆𝒂𝒗𝒆𝒏 ໒꒱ ‧₊˚",
+    "member_count": 143,
+    "clan_invite": "https://discord.gg/meowcult",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/833208069994971166/e701df75ce906698f0d02ce19bf7c8c6.png?size=16"
+  },
+  {
+    "clan_tag": "VİP",
+    "clan_name": "unbeatable # uqiret",
+    "member_count": 144,
+    "clan_invite": "https://discord.gg/unbeatable",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1230178903633563680/8e228078dc56d4ad8bdccb696d4e90be.png?size=16"
+  },
+  {
+    "clan_tag": "SRFL",
+    "clan_name": "starfell - a genshin community",
+    "member_count": 145,
+    "clan_invite": "https://discord.gg/starfell",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/942268531402231818/c581f92461de16d4144b45e1030ab751.png?size=16"
+  },
+  {
+    "clan_tag": "PRO",
+    "clan_name": "Gamers Paradise",
+    "member_count": 146,
+    "clan_invite": "https://discord.gg/zPsp98yk",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/606367960675647509/8e228078dc56d4ad8bdccb696d4e90be.png?size=16"
+  },
+  {
+    "clan_tag": "ಠᴥಠ",
+    "clan_name": "The Pond",
+    "member_count": 146,
+    "clan_invite": "https://discord.gg/JdQHshM7",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/751251578832420904/6473797948e6d36a991e425c8b7c353c.png?size=16"
+  },
+  {
+    "clan_tag": "AuAD",
+    "clan_name": "Autism/ADHD Discord",
+    "member_count": 147,
+    "clan_invite": "https://discord.gg/wqKBjZBJRG",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1113205910484045894/fed6f4322c08cd7ffbf1fab288b5a9c0.png?size=16"
+  },
+  {
+    "clan_tag": "cute",
+    "clan_name": "≽^•⩊•^≼ cute 🐾 🎄",
+    "member_count": 147,
+    "clan_invite": "https://discord.gg/cutieness",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1041777160903462963/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=16"
+  },
+  {
+    "clan_tag": "Yard",
+    "clan_name": "The Graveyard",
+    "member_count": 147,
+    "clan_invite": "https://discord.gg/V7ZSprdTMu",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/843969260309184552/f8d18346977c4b2ccc41c847763ebb43.png?size=16"
+  },
+  {
+    "clan_tag": "PSge",
+    "clan_name": "The Pocket Sages",
+    "member_count": 149,
+    "clan_invite": "https://discord.gg/eqnhbBQecw",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1033284843469013033/21129b437afdc5d4c56b399d9d86e25d.png?size=16"
+  },
+  {
+    "clan_tag": "Tuga",
+    "clan_name": "MagicLair",
+    "member_count": 149,
+    "clan_invite": "https://discord.gg/XfzRyVm3",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/953068725878272040/21129b437afdc5d4c56b399d9d86e25d.png?size=16"
+  },
+  {
+    "clan_tag": "STAR",
+    "clan_name": "𝐃𝐚𝐯𝐢𝐝𝐢𝐬𝐦 (revamping)",
+    "member_count": 150,
+    "clan_invite": "https://discord.gg/BMbH9QPG",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1184684128583565343/1e2228435504501eed17a2cea3f304b8.png?size=16"
+  },
+  {
+    "clan_tag": "ᓚᘏᗢ",
+    "clan_name": "cooler cats",
+    "member_count": 150,
+    "clan_invite": "https://discord.gg/purrfect",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1184379679621255168/f2da48f1d6c79e605a787aefbf2c4bf1.png?size=16"
+  },
+  {
+    "clan_tag": "aura",
+    "clan_name": "Bank of Sigmatic",
+    "member_count": 151,
+    "clan_invite": "https://discord.gg/c26sEA4Z",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1013655826591912009/659a5c8befc6de4b75c199f7f059dd4d.png?size=16"
+  },
+  {
+    "clan_tag": "FOX",
+    "clan_name": "𝗦𝗧𝗘𝗟𝗟𝗔𝗥 𝗪𝗜𝗡𝗚𝗦 ✧･ﾟ",
+    "member_count": 151,
+    "clan_invite": "https://discord.gg/stellarwings",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1222870498648653914/fd9a0c01e10d280af3f5662c009a3eca.png?size=16"
+  },
+  {
+    "clan_tag": "NETS",
+    "clan_name": "ikon gotei 13 ninja world Nets",
+    "member_count": 151,
+    "clan_invite": "https://discord.gg/hxJFQhYx",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/937534450412183582/75632b8b527d853ffc194de44dffb80f.png?size=16"
+  },
+  {
+    "clan_tag": "BB",
+    "clan_name": "Brickbattle Archive",
+    "member_count": 152,
+    "clan_invite": "https://discord.gg/Fdk6km6Q",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1193101595957809232/4ef966b9bdd3ca7155e184e893314cd6.png?size=16"
+  },
+  {
+    "clan_tag": "ENDR",
+    "clan_name": "Ender's  Community",
+    "member_count": 152,
+    "clan_invite": "https://discord.gg/xVtsS3bs",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/733341104765665371/e9eebc59f8cbb87d52e352e4fc1fd10d.png?size=16"
+  },
+  {
+    "clan_tag": "SNOW",
+    "clan_name": "SNOW .gg/subbie",
+    "member_count": 152,
+    "clan_invite": "https://discord.gg/U2fXd7uGGB",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1094305154368557138/d84985dab45c3cdcf569e45b89851750.png?size=16"
+  },
+  {
+    "clan_tag": "AMYK",
+    "clan_name": "AMEYOKO",
+    "member_count": 153,
+    "clan_invite": "https://discord.gg/4m8H5XUH3r",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/826305255548387358/9577c896decd3fa8d311d9fd4d0c7ee3.png?size=16"
+  },
+  {
+    "clan_tag": "eepy",
+    "clan_name": "The Cloud",
+    "member_count": 153,
+    "clan_invite": "https://discord.gg/jaja2exPgV",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/785005273894617119/86e4d6ba9fc585ec9e2396b86057eaf3.png?size=16"
+  },
+  {
+    "clan_tag": "LUNA",
+    "clan_name": "Lunar Circle",
+    "member_count": 153,
+    "clan_invite": "https://discord.gg/Scu7pTzf6Z",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/707103910686621758/788a69567671fb4d110432beeada67b6.png?size=16"
+  },
+  {
+    "clan_tag": "WK",
+    "clan_name": "Wicked",
+    "member_count": 153,
+    "clan_invite": "https://discord.gg/wckd",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/991141790407200928/3d05ea759d0f797382379e13ccb27f69.png?size=16"
+  },
+  {
+    "clan_tag": "69",
+    "clan_name": ".gg/curl #69",
+    "member_count": 155,
+    "clan_invite": "https://discord.gg/69guild",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1258949390752809052/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=16"
+  },
+  {
+    "clan_tag": "Limb",
+    "clan_name": ".gg/limb",
+    "member_count": 155,
+    "clan_invite": "https://discord.gg/limb",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1193941211975794848/16f5e32aff307da5472d8090525ec5d6.png?size=16"
+  },
+  {
+    "clan_tag": "혜주",
+    "clan_name": "hyeju",
+    "member_count": 155,
+    "clan_invite": "https://discord.gg/hyeju",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1214012194279391302/12198bf70683a710c47cb223ce4386a1.png?size=16"
+  },
+  {
+    "clan_tag": "KIWI",
+    "clan_name": ".•°¤*(¯`★´¯)*¤°   🎀  𝒦𝒾𝓌𝒾 𝒢𝒶𝓃𝑔  🎀   °¤*)¯´★`¯(*¤°•.",
+    "member_count": 156,
+    "clan_invite": "https://discord.gg/h95Pc4ka",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/650154168543346689/0fcf9a436df1a4b0de5644d3d42188e2.png?size=16"
+  },
+  {
+    "clan_tag": "XMP",
+    "clan_name": "Official Xmplfy Discord",
+    "member_count": 156,
+    "clan_invite": "https://discord.gg/mfmTPuKnS2",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1081227859177259042/500310efcb666c62d5bc28ed19e9c1d1.png?size=16"
+  },
+  {
+    "clan_tag": "^-^",
+    "clan_name": "༺𝑌𝑒𝑛𝑎 𝑅𝑒𝑎𝑙𝑚༻",
+    "member_count": 157,
+    "clan_invite": "https://discord.gg/cfcj8Gg65C",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1058489605395075135/0fcf9a436df1a4b0de5644d3d42188e2.png?size=16"
+  },
+  {
+    "clan_tag": "PURX",
+    "clan_name": "₱ɄⱤ₲₳₮ØⱤɎ",
+    "member_count": 157,
+    "clan_invite": "https://discord.gg/ngemJYN4",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1083521608620200027/c08ecb1ef98d938294b1db84ca629ef7.png?size=16"
+  },
+  {
+    "clan_tag": "RJCT",
+    "clan_name": "𝚁𝚎𝚓𝚎𝚌𝚝𝚜",
+    "member_count": 157,
+    "clan_invite": "https://discord.gg/rjct",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1252066988541480962/0b01ad4eaa26efbf8eddcac841149417.png?size=16"
+  },
+  {
+    "clan_tag": ":>",
+    "clan_name": "εϊз",
+    "member_count": 159,
+    "clan_invite": "https://discord.gg/puppycat",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/971490573099888691/a851d060503b51fb913ec1f498bf179d.png?size=16"
+  },
+  {
+    "clan_tag": "womp",
+    "clan_name": "✧Celestial Garden✧.",
+    "member_count": 159,
+    "clan_invite": "https://discord.gg/ZWgMYvgEan",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1102593621561192498/5ce1e94c9b862cb052f2a19b91889b7e.png?size=16"
+  },
+  {
+    "clan_tag": "#1",
+    "clan_name": "#1 (WE ARE #1)",
+    "member_count": 160,
+    "clan_invite": "https://discord.gg/7MA8kC88Y9",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1132041649992773723/f531a97b9f5f6252af4dd742197caaed.png?size=16"
+  },
+  {
+    "clan_tag": "PLAY",
+    "clan_name": "You Want To Play?",
+    "member_count": 160,
+    "clan_invite": "https://discord.gg/QCATRYYH9Y",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1083508666919047238/5607047f21b7e25a26c195cc49871278.png?size=16"
+  },
+  {
+    "clan_tag": "Meow",
+    "clan_name": "AceTrash's Domain Expansion",
+    "member_count": 161,
+    "clan_invite": "https://discord.gg/eQFyemeZh7",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1099742195218665626/fb6203517ebec5cbd8609216921dac45.png?size=16"
+  },
+  {
+    "clan_tag": "toot",
+    "clan_name": "Culp's Castle",
+    "member_count": 161,
+    "clan_invite": "https://discord.gg/tAPA7vpG7A",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/961832990365876284/6808a481bcaaa5fadbc2f24e844e82a3.png?size=16"
+  },
+  {
+    "clan_tag": "Cafè",
+    "clan_name": "TagTazz",
+    "member_count": 163,
+    "clan_invite": "https://discord.gg/8tVtfzJ3XU",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1074288224895250432/fa9cc80236e71715c90d24db7ee9eb53.png?size=16"
+  },
+  {
+    "clan_tag": "RAT",
+    "clan_name": "★ 𝑹𝑨𝑻 𝒁𝑶𝑵𝑬 ★",
+    "member_count": 163,
+    "clan_invite": "https://discord.gg/ratzone",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1152480087560695810/c3b2002956a9f5e542c92a22e983daf8.png?size=16"
+  },
+  {
+    "clan_tag": "STAR",
+    "clan_name": "Cosmic Hangout",
+    "member_count": 163,
+    "clan_invite": "https://discord.gg/aMraaY4PzA",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1139421385547059212/21129b437afdc5d4c56b399d9d86e25d.png?size=16"
+  },
+  {
+    "clan_tag": "><",
+    "clan_name": "><",
+    "member_count": 164,
+    "clan_invite": "https://discord.gg/TUvbREnRGW",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1213225956513415188/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=16"
+  },
+  {
+    "clan_tag": "GHST",
+    "clan_name": "𝔾𝕙𝕠𝕤𝕥 𝕋𝕠𝕨𝕟",
+    "member_count": 164,
+    "clan_invite": "https://discord.gg/ghosthasgone",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1115820911833129061/28b6144d747a2b6ae41603c68ba2de75.png?size=16"
+  },
+  {
+    "clan_tag": "LOCK",
+    "clan_name": ".gg/lockclan",
+    "member_count": 164,
+    "clan_invite": "https://discord.gg/lockclan",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1265384647198773479/0e4a20f297bdcea5e840699160f785c2.png?size=16"
+  },
+  {
+    "clan_tag": "CEO",
+    "clan_name": "@CEO",
+    "member_count": 165,
+    "clan_invite": "https://discord.gg/catcher",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1117351734940008479/3db0811985921421184d214ea3003cc9.png?size=16"
+  },
+  {
+    "clan_tag": "FAME",
+    "clan_name": "FameZone | .gg/guildplaza",
+    "member_count": 165,
+    "clan_invite": "https://discord.gg/famezone",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1165430671435636770/a3157678d3f97d789e959f9c62499918.png?size=16"
+  },
+  {
+    "clan_tag": "ggez",
+    "clan_name": "🌨 Misfits ⛄",
+    "member_count": 165,
+    "clan_invite": "https://discord.gg/6wUwS5X9",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/465639532042387458/dea97e909a0211e2479d75cd11c2ec41.png?size=16"
+  },
+  {
+    "clan_tag": "OVH",
+    "clan_name": "OVH",
+    "member_count": 165,
+    "clan_invite": "https://discord.gg/ovh",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1151347415966810134/7dff089fbee252a67e72a08ae58a0376.png?size=16"
+  },
+  {
+    "clan_tag": "カイゼン",
+    "clan_name": "kaizen",
+    "member_count": 166,
+    "clan_invite": "https://discord.gg/ka1zen",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1135486285822312499/981a04c7e813e93fc72cc12058b3cb97.png?size=16"
+  },
+  {
+    "clan_tag": "nerd",
+    "clan_name": "Pasta People",
+    "member_count": 167,
+    "clan_invite": "https://discord.gg/pastapeople",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1200981700549808289/0fcf9a436df1a4b0de5644d3d42188e2.png?size=16"
+  },
+  {
+    "clan_tag": "wing",
+    "clan_name": "orchid",
+    "member_count": 167,
+    "clan_invite": "https://discord.gg/9eZRdH3GGS",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1209208758841122936/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=16"
+  },
+  {
+    "clan_tag": "BEES",
+    "clan_name": "The Swarm",
+    "member_count": 168,
+    "clan_invite": "https://discord.gg/GkkYvY2C",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/641499496097775634/c1e4439afa95753a4bab531e3c4c42d1.png?size=16"
+  },
+  {
+    "clan_tag": "CLS",
+    "clan_name": "Celestial eSports",
+    "member_count": 168,
+    "clan_invite": "https://discord.gg/kQkSpt9vH9",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1163322018117206037/c625c5f692bf060cd4e5d25e5418c0e4.png?size=16"
+  },
+  {
+    "clan_tag": "#1",
+    "clan_name": "𝓟𝓸𝓹",
+    "member_count": 169,
+    "clan_invite": "https://discord.gg/n8xR8VypNr",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1257429761383202916/606259f467a4acf3bc409027326dfd4a.png?size=16"
+  },
+  {
+    "clan_tag": "999",
+    "clan_name": "Walks Map",
+    "member_count": 169,
+    "clan_invite": "https://discord.gg/ec2awsyVN3",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1144875737866842112/dea97e909a0211e2479d75cd11c2ec41.png?size=16"
+  },
+  {
+    "clan_tag": "KREW",
+    "clan_name": "Rock Bottom",
+    "member_count": 169,
+    "clan_invite": "https://discord.gg/Ae4NPrdc",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1013272338822856744/0384748169377b318a6169411851794c.png?size=16"
+  },
+  {
+    "clan_tag": "ALEV",
+    "clan_name": "A L E V 🤭 #KESH",
+    "member_count": 170,
+    "clan_invite": "https://discord.gg/alev",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1215067556298235924/e929e1c0111f2acf104ba53aefc5ee44.png?size=16"
+  },
+  {
+    "clan_tag": "UGC",
+    "clan_name": "UGC",
+    "member_count": 170,
+    "clan_invite": "https://discord.gg/r9fahMNceA",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/799919444821278730/ad842b5ea717cde056d0093cb9e90d1d.png?size=16"
+  },
+  {
+    "clan_tag": "USER",
+    "clan_name": "User's Loser Gang!",
+    "member_count": 170,
+    "clan_invite": "https://discord.gg/BGNTChVc",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1077797026466644008/78b1ebb6b97565376cb5345a0631e362.png?size=16"
+  },
+  {
+    "clan_tag": "NUGG",
+    "clan_name": "Cece's server",
+    "member_count": 172,
+    "clan_invite": "https://discord.gg/AGrDg3J8",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/872618770449956904/b095cb2291d96f56e38368ace958eb99.png?size=16"
+  },
+  {
+    "clan_tag": "SS",
+    "clan_name": "SS Guild",
+    "member_count": 172,
+    "clan_invite": "https://discord.gg/TNu8RykuMe",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/800472016607772732/5b18e373aa625d2236d5e7da543719d0.png?size=16"
+  },
+  {
+    "clan_tag": "ZOV",
+    "clan_name": "zov",
+    "member_count": 172,
+    "clan_invite": "https://discord.gg/N3zEbM4Yhk",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1266537439510663189/c08ecb1ef98d938294b1db84ca629ef7.png?size=16"
+  },
+  {
+    "clan_tag": "AURA",
+    "clan_name": "Burger Joint 🍔",
+    "member_count": 173,
+    "clan_invite": "https://discord.gg/FEpbg4BM",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1119906985761054730/bb6f447245dd4c9243d2aeb61d26154d.png?size=16"
+  },
+  {
+    "clan_tag": "G$NG",
+    "clan_name": "Eclipse Heaven <3",
+    "member_count": 173,
+    "clan_invite": "https://discord.gg/eclipseheaven",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1220457156193550447/c08ecb1ef98d938294b1db84ca629ef7.png?size=16"
+  },
+  {
+    "clan_tag": "MCSP",
+    "clan_name": "MCSP Guild",
+    "member_count": 173,
+    "clan_invite": "https://discord.gg/7uQBWpvW",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1125119265977139270/7316601f6fb084b885ccac99cb40158d.png?size=16"
+  },
+  {
+    "clan_tag": "P0RN",
+    "clan_name": "/vindicate",
+    "member_count": 173,
+    "clan_invite": "https://discord.gg/SVqYAej6rF",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1088542756835692596/2c7aa014ee3599b6b7089ce933971852.png?size=16"
+  },
+  {
+    "clan_tag": "AKT",
+    "clan_name": "Akatsuki Hideout",
+    "member_count": 174,
+    "clan_invite": "https://discord.gg/akthideout",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/503264945836916777/64924435a5a1b41554566a1553af1c65.png?size=16"
+  },
+  {
+    "clan_tag": "dead",
+    "clan_name": ".gg/guildy",
+    "member_count": 174,
+    "clan_invite": "https://discord.gg/guildy",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1181008820433068042/5b24a57803b4e701b5a18fb6e5c53ae3.png?size=16"
+  },
+  {
+    "clan_tag": "Lord",
+    "clan_name": "Lord 🌪 | Social • Gaming • Hangout",
+    "member_count": 174,
+    "clan_invite": "https://discord.gg/wall",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1196971243732226149/4016df5e51eeed0bfbfd3efb2637da7e.png?size=16"
+  },
+  {
+    "clan_tag": "MEOW",
+    "clan_name": "SpiceCherry's Casa",
+    "member_count": 174,
+    "clan_invite": "https://discord.gg/spicecherry",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1037108332885979156/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=16"
+  },
+  {
+    "clan_tag": "NTSC",
+    "clan_name": "🎄National Television Standards Committee (Andromeda's Hangout)",
+    "member_count": 174,
+    "clan_invite": "https://discord.gg/v3rUAyJ9",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/963127506729308190/75632b8b527d853ffc194de44dffb80f.png?size=16"
+  },
+  {
+    "clan_tag": "RLG",
+    "clan_name": "Red Light Gaming Guild",
+    "member_count": 174,
+    "clan_invite": "https://discord.gg/redlightgamingguild",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1068677462948581376/84ba7b211722f50d0b042ff4e5cdfa4e.png?size=16"
+  },
+  {
+    "clan_tag": "sIut",
+    "clan_name": "/vindicate",
+    "member_count": 174,
+    "clan_invite": "https://discord.gg/vu3atbMWW7",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1088542666351972472/2c7aa014ee3599b6b7089ce933971852.png?size=16"
+  },
+  {
+    "clan_tag": "JCo",
+    "clan_name": "Jaysick & Co.",
+    "member_count": 175,
+    "clan_invite": "https://discord.gg/bCNQS5FDEz",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1026609216477200484/ac6ffd2057d4c28a97ac11c7898c0cd0.png?size=16"
+  },
+  {
+    "clan_tag": "BBT",
+    "clan_name": "The BubbleTea Store",
+    "member_count": 176,
+    "clan_invite": "https://discord.gg/c4r44xaK",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/705679963315240971/74a4d9095719af0bbde0ceace6bdd965.png?size=16"
+  },
+  {
+    "clan_tag": "bean",
+    "clan_name": "soybean's insectarium",
+    "member_count": 176,
+    "clan_invite": "https://discord.gg/SdU7Au2j",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/672576012092964885/934881bf55c263ac21e467d53e811997.png?size=16"
+  },
+  {
+    "clan_tag": "lysm",
+    "clan_name": "love is blind",
+    "member_count": 176,
+    "clan_invite": "https://discord.gg/qkZkQFGQPx",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1042181768134004807/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=16"
+  },
+  {
+    "clan_tag": "VIBE",
+    "clan_name": "Luminous Club ★",
+    "member_count": 176,
+    "clan_invite": "https://discord.gg/ZGqCj7w6WN",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1013571004871753750/9913006ba65beb13aa78d540c42522b1.png?size=16"
+  },
+  {
+    "clan_tag": "឵឵",
+    "clan_name": "Samurai Interactive",
+    "member_count": 177,
+    "clan_invite": "https://discord.gg/SC7Ntwtwms",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/842054164863123488/f65627f869ee9fd6a3823c32100424d6.png?size=16"
+  },
+  {
+    "clan_tag": "KSA",
+    "clan_name": "Saudi Arabia Guild",
+    "member_count": 177,
+    "clan_invite": "https://discord.gg/ksaa",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1231018124120166490/2c7aa014ee3599b6b7089ce933971852.png?size=16"
+  },
+  {
+    "clan_tag": "LOVE",
+    "clan_name": "/slxts",
+    "member_count": 177,
+    "clan_invite": "https://discord.gg/slxts",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/967559541254414367/230ce8e866e060ef83b019f46a58f59d.png?size=16"
+  },
+  {
+    "clan_tag": "mint",
+    "clan_name": "🌙 Midnight Tavern",
+    "member_count": 177,
+    "clan_invite": "https://discord.gg/hZqQNT69",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/669761271943397426/5c71a9aa254a0af51ae40596adfad758.png?size=16"
+  },
+  {
+    "clan_tag": "ATTC",
+    "clan_name": "Attic Guild",
+    "member_count": 178,
+    "clan_invite": "https://discord.gg/theatticguild",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1090864149686399026/04cee49fbcaa69a71206ccb637470e72.png?size=16"
+  },
+  {
+    "clan_tag": "BWSX",
+    "clan_name": "Bobcat Workshops [BWS]",
+    "member_count": 178,
+    "clan_invite": "https://discord.gg/87eCKDtcPg",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/905224460540469268/067c10f669fbaaf9bbfe71608b2aa0d4.png?size=16"
+  },
+  {
+    "clan_tag": "sad.",
+    "clan_name": "hahahahahahaha",
+    "member_count": 178,
+    "clan_invite": "https://discord.gg/sadclan",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1252003770523455498/2c7aa014ee3599b6b7089ce933971852.png?size=16"
+  },
+  {
+    "clan_tag": "GRIM",
+    "clan_name": ".gg/envvy (#GRIM)",
+    "member_count": 179,
+    "clan_invite": "https://discord.gg/hZFqFspHNA",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1258249542823055380/0763eb75ab982c3b7769aefe8b7a6bde.png?size=16"
+  },
+  {
+    "clan_tag": "RAVN",
+    "clan_name": "vexravyn clan",
+    "member_count": 179,
+    "clan_invite": "https://discord.gg/2W3ePVku",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1004845111974318232/c8d016eed5c8752316ca38fdd54380c6.png?size=16"
+  },
+  {
+    "clan_tag": "DOM",
+    "clan_name": "Dom",
+    "member_count": 180,
+    "clan_invite": "https://discord.gg/BbFG5qRWTv",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1240117300175310938/5de8c8d63b69a803c28de68a3d54178c.png?size=16"
+  },
+  {
+    "clan_tag": "ego",
+    "clan_name": ".gg/12g (#EGO)",
+    "member_count": 180,
+    "clan_invite": "https://discord.gg/8bWS9XcpxF",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1249569936221929585/e701df75ce906698f0d02ce19bf7c8c6.png?size=16"
+  },
+  {
+    "clan_tag": "NEKO",
+    "clan_name": "neko sanctuary",
+    "member_count": 180,
+    "clan_invite": "https://discord.gg/9Bz4hN32",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1106776916624687184/456ac4b04c20caf8c8dff900223751ff.png?size=16"
+  },
+  {
+    "clan_tag": "Silk",
+    "clan_name": "Silken Courtyard",
+    "member_count": 180,
+    "clan_invite": "https://discord.gg/silken",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1201278929911169035/aef7738ba114e121d617c8c20bf7f1d6.png?size=16"
+  },
+  {
+    "clan_tag": "snow",
+    "clan_name": "[snow] /mopar 🎄",
+    "member_count": 180,
+    "clan_invite": "https://discord.gg/mopar",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1147149232382427216/e701df75ce906698f0d02ce19bf7c8c6.png?size=16"
+  },
+  {
+    "clan_tag": "rich",
+    "clan_name": ".gg/addict to $$$",
+    "member_count": 181,
+    "clan_invite": "https://discord.gg/addict",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1176267490641334367/cd4559376b6dea1efa56612731629972.png?size=16"
+  },
+  {
+    "clan_tag": "fun",
+    "clan_name": "Solana Central",
+    "member_count": 182,
+    "clan_invite": "https://discord.gg/zUk3YfR2",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/797591315146997840/0bb5d5ff93ced37c3108061a5fbb3c0f.png?size=16"
+  },
+  {
+    "clan_tag": "swag",
+    "clan_name": "<3",
+    "member_count": 182,
+    "clan_invite": "https://discord.gg/victoriascasita",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/890104129958055946/8d61abb8b5da075befaff858861dba54.png?size=16"
+  },
+  {
+    "clan_tag": "CAFE",
+    "clan_name": "Cucumber's Cafe",
+    "member_count": 183,
+    "clan_invite": "https://discord.gg/cEywqcjzKt",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1171317399266545718/cfebee768537993f70db7e4748efbcef.png?size=16"
+  },
+  {
+    "clan_tag": "GLDN",
+    "clan_name": "Goldenrod City",
+    "member_count": 183,
+    "clan_invite": "https://discord.gg/goldenrod-city",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1256640318288166912/40fab0e8c19af03f4f762e2667b94c83.png?size=16"
+  },
+  {
+    "clan_tag": "KILL",
+    "clan_name": "Killers Dream",
+    "member_count": 183,
+    "clan_invite": "https://discord.gg/sRPs27nM4n",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1091186148518408332/ad842b5ea717cde056d0093cb9e90d1d.png?size=16"
+  },
+  {
+    "clan_tag": "KTTN",
+    "clan_name": "❥ 𝙠𝙞𝙩𝙩𝙚𝙣𝙨 ❥",
+    "member_count": 183,
+    "clan_invite": "https://discord.gg/JU7HwAZRmr",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1136012557388361759/8d61abb8b5da075befaff858861dba54.png?size=16"
+  },
+  {
+    "clan_tag": "XTND",
+    "clan_name": "☆Xtend☆",
+    "member_count": 183,
+    "clan_invite": "https://discord.gg/NuHFjKwSdN",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1248337838412533870/4bca913c9b2106ed777541ec65def38c.png?size=16"
+  },
+  {
+    "clan_tag": "ゴシック",
+    "clan_name": "/e creepy",
+    "member_count": 183,
+    "clan_invite": "https://discord.gg/X4zae3ysy9",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1202058916637446256/c08ecb1ef98d938294b1db84ca629ef7.png?size=16"
+  },
+  {
+    "clan_tag": "</3",
+    "clan_name": "Satake's Empire (18+)",
+    "member_count": 184,
+    "clan_invite": "https://discord.gg/ghCjuhxwva",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/741434122584588383/633095aae35013dc9a04f26019db9f61.png?size=16"
+  },
+  {
+    "clan_tag": "Dev",
+    "clan_name": "mentally unstable folks",
+    "member_count": 184,
+    "clan_invite": "https://discord.gg/toasting",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1125181848142745640/dea4f5f8e9aaa736c9b599506226508e.png?size=16"
+  },
+  {
+    "clan_tag": "HOYO",
+    "clan_name": "Happen's fatui crib",
+    "member_count": 184,
+    "clan_invite": "https://discord.gg/B7bKdp3rWC",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/805508832108216370/80e5e6bdbdd81e95b650670b2afba2cc.png?size=16"
+  },
+  {
+    "clan_tag": "ꪒꪒ ༢",
+    "clan_name": "(*ᴗ͈ˬᴗ͈）　𓏏𓏏　misua　🍜˚　、",
+    "member_count": 184,
+    "clan_invite": "https://discord.gg/dP3Ur84WYZ",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1194461884481552466/15d9f04a525cbd313d7b4e49dde23bc0.png?size=16"
+  },
+  {
+    "clan_tag": "</3",
+    "clan_name": "𝚑𝚎𝚊𝚛𝚝𝚕𝚎𝚜𝚜",
+    "member_count": 185,
+    "clan_invite": "https://discord.gg/heartlesss",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1198869472551915560/2c7aa014ee3599b6b7089ce933971852.png?size=16"
+  },
+  {
+    "clan_tag": "cult",
+    "clan_name": "ₘₐₐᵤ'ₛ cₐfₑ",
+    "member_count": 185,
+    "clan_invite": "https://discord.gg/rWdz4wbVvg",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1137773562367844453/b1dc33d557c4d3c9db80ac12762f5b9f.png?size=16"
+  },
+  {
+    "clan_tag": "HOH",
+    "clan_name": "House of Hearth",
+    "member_count": 185,
+    "clan_invite": "https://discord.gg/houseofhearth",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1019659828039254067/9f0b768e9a594424d06e24d9cbe5669b.png?size=16"
+  },
+  {
+    "clan_tag": "LITE",
+    "clan_name": ".gg/lite",
+    "member_count": 185,
+    "clan_invite": "https://discord.gg/lite",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1118333001714122874/0e64899dedcc09554b93aed6778ea805.png?size=16"
+  },
+  {
+    "clan_tag": "MEOW",
+    "clan_name": "ashleyacidic",
+    "member_count": 185,
+    "clan_invite": "https://discord.gg/E7eVeV9A",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1190702114138226708/2c7aa014ee3599b6b7089ce933971852.png?size=16"
+  },
+  {
+    "clan_tag": "MORA",
+    "clan_name": "Brokies",
+    "member_count": 185,
+    "clan_invite": "https://discord.gg/brokies",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1200305396942905374/242b9900074569eb2b6217d729214aab.png?size=16"
+  },
+  {
+    "clan_tag": "CRIB",
+    "clan_name": "Crib",
+    "member_count": 186,
+    "clan_invite": "https://discord.gg/dnpvGTJ26x",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1153388372539228262/f52560ecf3a8e332afdec38d61b6a70f.png?size=16"
+  },
+  {
+    "clan_tag": "TaF",
+    "clan_name": "T.a.F. (official server)",
+    "member_count": 186,
+    "clan_invite": "https://discord.gg/3vCXMxwG",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/863075929643548734/78b1ebb6b97565376cb5345a0631e362.png?size=16"
+  },
+  {
+    "clan_tag": "^0^",
+    "clan_name": "🌸 Sakura Haven 🌸",
+    "member_count": 187,
+    "clan_invite": "https://discord.gg/bvekMvh4PG",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/854833356072419339/0fcf9a436df1a4b0de5644d3d42188e2.png?size=16"
+  },
+  {
+    "clan_tag": "69",
+    "clan_name": "KaChow's Dungeon",
+    "member_count": 187,
+    "clan_invite": "https://discord.gg/eJ4Ueuw9Yy",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1131576408829870221/8e228078dc56d4ad8bdccb696d4e90be.png?size=16"
+  },
+  {
+    "clan_tag": "HYPE",
+    "clan_name": "Hypesquad",
+    "member_count": 187,
+    "clan_invite": "https://discord.gg/hype-squad",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/941103073164681256/75e77dd55d75e5407cad6964c5925a1b.png?size=16"
+  },
+  {
+    "clan_tag": "LOVE",
+    "clan_name": "/love",
+    "member_count": 187,
+    "clan_invite": "https://discord.gg/2JFuv4qc",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/806286581370716171/f86c70c2e73573f109a5c41d15f44842.png?size=16"
+  },
+  {
+    "clan_tag": "POKÉ",
+    "clan_name": "The Pokemon Plaza",
+    "member_count": 187,
+    "clan_invite": "https://discord.gg/bnCvJnDeCs",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/579837419449221233/47fb9f8b8f9b6b7d412b83dfd5363e50.png?size=16"
+  },
+  {
+    "clan_tag": "CHAI",
+    "clan_name": "Val Cafe",
+    "member_count": 188,
+    "clan_invite": "https://discord.gg/CrQWTVMS6Z",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1209763099129946122/4c6b987648217084cc4371c4f129b87b.png?size=16"
+  },
+  {
+    "clan_tag": "JBOX",
+    "clan_name": "Jackbox Memes/ DTS",
+    "member_count": 188,
+    "clan_invite": "https://discord.gg/t8CjcY2K2R",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/706350701504364594/d0dc5e1f10c51383efe74daf09c449ab.png?size=16"
+  },
+  {
+    "clan_tag": "papa",
+    "clan_name": "Papa's fam",
+    "member_count": 188,
+    "clan_invite": "https://discord.gg/WReMDfW89d",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/785733867045781504/439c5b7117f3f3e8e574b4766d1b7e73.png?size=16"
+  },
+  {
+    "clan_tag": ":3",
+    "clan_name": "/naoi :3",
+    "member_count": 189,
+    "clan_invite": "https://discord.gg/WuQHQvs2GJ",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1217076199646564353/8db74de81be9efbcdd4b535f2f2a5e6a.png?size=16"
+  },
+  {
+    "clan_tag": "•ω•",
+    "clan_name": "w!sh",
+    "member_count": 189,
+    "clan_invite": "https://discord.gg/wwish",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/809939809845903371/9fd9ef00016ebd20cd960a6164b48ace.png?size=16"
+  },
+  {
+    "clan_tag": "AQUA",
+    "clan_name": "AQUA<3",
+    "member_count": 189,
+    "clan_invite": "https://discord.gg/SxDUn9G7",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/983082321613824030/310d9b669d687de773b5f3b5310ca1f3.png?size=16"
+  },
+  {
+    "clan_tag": "bae",
+    "clan_name": ".gg/photos own’s this 🌸 : #bae",
+    "member_count": 189,
+    "clan_invite": "https://discord.gg/eucjAvswqy",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1265835219609583720/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=16"
+  },
+  {
+    "clan_tag": "GOAT",
+    "clan_name": ".gg/idh",
+    "member_count": 189,
+    "clan_invite": "https://discord.gg/doc",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1259343867204079787/60822eb8c504c45cee27680dbccf599b.png?size=16"
+  },
+  {
+    "clan_tag": "RIZZ",
+    "clan_name": "EPSTEIN ISLAND",
+    "member_count": 189,
+    "clan_invite": "https://discord.gg/CXB9RzWRHT",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1194424059467923556/78b1ebb6b97565376cb5345a0631e362.png?size=16"
+  },
+  {
+    "clan_tag": "SØLS",
+    "clan_name": "۞Solaris Pirates۞",
+    "member_count": 189,
+    "clan_invite": "https://discord.gg/AfKHgDfe",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/357331299792584707/491019b3b655ab005e6abb335fddc788.png?size=16"
+  },
+  {
+    "clan_tag": "Zuka",
+    "clan_name": "The zuka... ig.....Community",
+    "member_count": 189,
+    "clan_invite": "https://discord.gg/TwhWuZ2hkz",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1125221575982059632/51e6a34c02dfdfc0fb279b047cf41f88.png?size=16"
+  },
+  {
+    "clan_tag": ".exe",
+    "clan_name": ".gg/execlan",
+    "member_count": 190,
+    "clan_invite": "https://discord.gg/execlan",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/624275634700550174/267a83b639c13ed876557f25c2294bc6.png?size=16"
+  },
+  {
+    "clan_tag": "BUFF",
+    "clan_name": "Buff's Home",
+    "member_count": 190,
+    "clan_invite": "https://discord.gg/qaHtV7h",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/733455071769264172/a4cf858a0bd6d25069e07eff337a2a7a.png?size=16"
+  },
+  {
+    "clan_tag": "DARK",
+    "clan_name": "Dark Office",
+    "member_count": 190,
+    "clan_invite": "https://discord.gg/darkoffice",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/991718191376105552/b1dc33d557c4d3c9db80ac12762f5b9f.png?size=16"
+  },
+  {
+    "clan_tag": "doll",
+    "clan_name": "(.gg/naoi) | doll",
+    "member_count": 190,
+    "clan_invite": "https://discord.gg/h2HNUj82U6",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1247679536196222996/e333625b089312036da7887fd8dbea9f.png?size=16"
+  },
+  {
+    "clan_tag": "Ghoﬆ",
+    "clan_name": "[中国人] Academy .gg/guildtag",
+    "member_count": 190,
+    "clan_invite": "https://discord.gg/vT8MQq2fEc",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1154673091360854117/42d9e59f600b7659111a07ed19015b8b.png?size=16"
+  },
+  {
+    "clan_tag": "GOOB",
+    "clan_name": "Dynamite Friends Community (Goob Hub)",
+    "member_count": 190,
+    "clan_invite": "https://discord.gg/XMVjBafV78",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1129490290659565671/d2b8a11f11730feee94ce3ade605905f.png?size=16"
+  },
+  {
+    "clan_tag": "sin",
+    "clan_name": ".gg/photos own’s this 🦇 : #sin",
+    "member_count": 190,
+    "clan_invite": "https://discord.gg/heroine",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1238325201058402444/45787f54e452f389e5de3ad0b87dbfda.png?size=16"
+  },
+  {
+    "clan_tag": "Staﬀ",
+    "clan_name": ".gg/staffclan",
+    "member_count": 190,
+    "clan_invite": "https://discord.gg/staffclan",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1165733840115994855/18aacac870ce115a9194863e04f4ddbb.png?size=16"
+  },
+  {
+    "clan_tag": "Star",
+    "clan_name": "Updating..(TH)",
+    "member_count": 190,
+    "clan_invite": "https://discord.gg/rgRQDT4G",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1208057085795901510/63caff5c807e5ee7010c4253ffe44fe4.png?size=16"
+  },
+  {
+    "clan_tag": "STAR",
+    "clan_name": "'×°~Tamariya's Academy~°×'",
+    "member_count": 190,
+    "clan_invite": "https://discord.gg/QF4gDCHtQz",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1006685992893288460/4bca913c9b2106ed777541ec65def38c.png?size=16"
+  },
+  {
+    "clan_tag": "TSS",
+    "clan_name": "Shenanigan Shack",
+    "member_count": 190,
+    "clan_invite": "https://discord.gg/HTD4dkuK",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/925836967957127238/f6fecbf5ef2c3ba9b41fc9939f9b80d7.png?size=16"
+  },
+  {
+    "clan_tag": "/d/",
+    "clan_name": "/d/",
+    "member_count": 191,
+    "clan_invite": "https://discord.gg/oreimo",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1212244553659195494/a80d4e5a169ee0bcb140d12fde01ae4d.png?size=16"
+  },
+  {
+    "clan_tag": "DIGI",
+    "clan_name": "Digital's",
+    "member_count": 191,
+    "clan_invite": "https://discord.gg/VxQj8FGP",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/121898255268315136/ad41ae42c76acbb0ea6be400fda22a59.png?size=16"
+  },
+  {
+    "clan_tag": "ICEY",
+    "clan_name": "Ice Cafe ♡ [GUILD]",
+    "member_count": 191,
+    "clan_invite": "https://discord.gg/icecafe",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1212592488448135249/93e676a86b77c7addd30a17d715ba2b6.png?size=16"
+  },
+  {
+    "clan_tag": "ᛝ 白厄",
+    "clan_name": "𐐩 전독시  ﹑ /phainon ‿ ͜",
+    "member_count": 191,
+    "clan_invite": "https://discord.gg/phainon",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1034637605435871273/462ff12d2f7115806e6bc3d6efc66ab3.png?size=16"
+  },
+  {
+    "clan_tag": ">.<",
+    "clan_name": ".gg/facepalm",
+    "member_count": 192,
+    "clan_invite": "https://discord.gg/facepalm",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1038125081873895485/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=16"
+  },
+  {
+    "clan_tag": "4ST",
+    "clan_name": "Fours Studios Community",
+    "member_count": 192,
+    "clan_invite": "https://discord.gg/yTAhS3zAT6",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1182860816798724148/e05ecd5875a2e1daee2ed1df612462b5.png?size=16"
+  },
+  {
+    "clan_tag": "EGA",
+    "clan_name": "Eevee Gaming Asylum",
+    "member_count": 192,
+    "clan_invite": "https://discord.gg/dqsMH3KYv7",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/715930608811114517/856cecbf8055036b98cf05fd54cd8872.png?size=16"
+  },
+  {
+    "clan_tag": "FE!N",
+    "clan_name": ".gg/ruby /envvy (#FE!N)",
+    "member_count": 192,
+    "clan_invite": "https://discord.gg/52AvQ6bj74",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1222257873208344657/0e7cf6f0b3f2b477c05ec6dcb57a4c5a.png?size=16"
+  },
+  {
+    "clan_tag": "FISH",
+    "clan_name": "♡ ̆̈﹕ kinniequarium ₊ 🐟 (17+)",
+    "member_count": 192,
+    "clan_invite": "https://discord.gg/qDPkZZrVXZ",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/936759676895379537/3ceb38890b5d1d9d76d269d9adc08d56.png?size=16"
+  },
+  {
+    "clan_tag": "FOX",
+    "clan_name": "Fox World",
+    "member_count": 192,
+    "clan_invite": "https://discord.gg/fops",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1239114072155492352/7f968d34689b032120d7a0f2a3d69b83.png?size=16"
+  },
+  {
+    "clan_tag": "IRAN",
+    "clan_name": "IRAN Community",
+    "member_count": 192,
+    "clan_invite": "https://discord.gg/Kfn5eKs6",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1170976862831390810/470e62b15c76117186ada00a50babb12.png?size=16"
+  },
+  {
+    "clan_tag": "KISS",
+    "clan_name": ".gg/kissclan",
+    "member_count": 192,
+    "clan_invite": "https://discord.gg/kissclan",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1216244236664442890/4e9fe893c641d1c9447e4113e40503bf.png?size=16"
+  },
+  {
+    "clan_tag": "POOP",
+    "clan_name": "Mysterious Garden･ﾟ✿",
+    "member_count": 192,
+    "clan_invite": "https://discord.gg/GpVgUh4",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/459629220390371328/e9eebc59f8cbb87d52e352e4fc1fd10d.png?size=16"
+  },
+  {
+    "clan_tag": "uwu",
+    "clan_name": "†𝖍𝖊 𝕯𝖊𝖕𝖗𝖊𝖘𝖘𝖎𝖔𝖓 𝕮𝖑𝖚𝖇 ⁶𓅓",
+    "member_count": 192,
+    "clan_invite": "https://discord.gg/VBUqWdbpYV",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/887444663328440371/40a7aa796426347d6b76d20dfed2c273.png?size=16"
+  },
+  {
+    "clan_tag": "FAKE",
+    "clan_name": ".gg/fakeclan",
+    "member_count": 193,
+    "clan_invite": "https://discord.gg/fakeclan",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1107376601773117542/c8d016eed5c8752316ca38fdd54380c6.png?size=16"
+  },
+  {
+    "clan_tag": "fawn",
+    "clan_name": "♡fawn ， discord.gg/decor",
+    "member_count": 193,
+    "clan_invite": "https://discord.gg/nFkjWKqUcY",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/734178480450961422/2e4d04552955077883482334bc396b66.png?size=16"
+  },
+  {
+    "clan_tag": "SCAM",
+    "clan_name": ".gg/scamclan",
+    "member_count": 193,
+    "clan_invite": "https://discord.gg/scamclan",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1262962331357544489/f6d9b8bec862ba882d8243ac1affbf35.png?size=16"
+  },
+  {
+    "clan_tag": "SOUP",
+    "clan_name": "The Soup Stop",
+    "member_count": 193,
+    "clan_invite": "https://discord.gg/j9mzcb7wfZ",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1095388393673863258/40a7aa796426347d6b76d20dfed2c273.png?size=16"
+  },
+  {
+    "clan_tag": "UWU",
+    "clan_name": ".gg/uwuclan",
+    "member_count": 193,
+    "clan_invite": "https://discord.gg/uwuclan",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1231016152981966951/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=16"
+  },
+  {
+    "clan_tag": "womp",
+    "clan_name": "The Womp Wompers",
+    "member_count": 193,
+    "clan_invite": "https://discord.gg/AaZbyAGVF9",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/828112673295695972/b89880cbc6ca37627d4ff0ceff15abed.png?size=16"
+  },
+  {
+    "clan_tag": "BIRB",
+    "clan_name": "Ciel's Domain",
+    "member_count": 194,
+    "clan_invite": "https://discord.gg/asZyM8qc3w",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1001345315078680657/aef7738ba114e121d617c8c20bf7f1d6.png?size=16"
+  },
+  {
+    "clan_tag": "Café",
+    "clan_name": "Coffee Connoisseur's",
+    "member_count": 194,
+    "clan_invite": "https://discord.gg/e68fJv2j",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/729646358465871912/6cbf44c380b0b09636d08035fda873f9.png?size=16"
+  },
+  {
+    "clan_tag": "CATS",
+    "clan_name": "pokemox center",
+    "member_count": 194,
+    "clan_invite": "https://discord.gg/ZcyjpHPbdq",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/385862975757615116/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=16"
+  },
+  {
+    "clan_tag": "Lazy",
+    "clan_name": ".gg/DnK | #Lazy",
+    "member_count": 194,
+    "clan_invite": "https://discord.gg/WK4Tg6x6yE",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1257491631565967430/439c5b7117f3f3e8e574b4766d1b7e73.png?size=16"
+  },
+  {
+    "clan_tag": "PIVO",
+    "clan_name": ".gg/pivo",
+    "member_count": 194,
+    "clan_invite": "https://discord.gg/pivo",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/972511923272814613/2c6a83fc9fdbfc5c9079cd7958d3db22.png?size=16"
+  },
+  {
+    "clan_tag": "SKLL",
+    "clan_name": ".gg/skell (#Skll)",
+    "member_count": 194,
+    "clan_invite": "https://discord.gg/skellz",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/744235163139047425/439c5b7117f3f3e8e574b4766d1b7e73.png?size=16"
+  },
+  {
+    "clan_tag": "SNAX",
+    "clan_name": "Snack Attack",
+    "member_count": 194,
+    "clan_invite": "https://discord.gg/snaxncats",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/826998485957345360/21530e3d87f4f0ba16972bb36547f073.png?size=16"
+  },
+  {
+    "clan_tag": "SOLO",
+    "clan_name": ".gg/soloclan",
+    "member_count": 194,
+    "clan_invite": "https://discord.gg/XtjQet5B",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1235990465757708348/e65be4e46791e67042adc4cc7687577a.png?size=16"
+  },
+  {
+    "clan_tag": "SWAT",
+    "clan_name": ".gg/swatclan",
+    "member_count": 194,
+    "clan_invite": "https://discord.gg/swatclan",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1038879618066812998/dea97e909a0211e2479d75cd11c2ec41.png?size=16"
+  },
+  {
+    "clan_tag": "weed",
+    "clan_name": ".gg/lone #weed",
+    "member_count": 194,
+    "clan_invite": "https://discord.gg/4hKz5BQJ",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1249160448889065534/13f4627bb8d075beedc644cb79b0a388.png?size=16"
+  },
+  {
+    "clan_tag": "yvl",
+    "clan_name": ".gg/trends #yvl",
+    "member_count": 194,
+    "clan_invite": "https://discord.gg/ntm",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1065818787959537705/c625c5f692bf060cd4e5d25e5418c0e4.png?size=16"
+  },
+  {
+    "clan_tag": "bသbs",
+    "clan_name": "#boobs .gg/packer",
+    "member_count": 195,
+    "clan_invite": "https://discord.gg/tjttdbhtFF",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1261278977520173066/d8f57f743c128c6a3f425964e347dd5b.png?size=16"
+  },
+  {
+    "clan_tag": "CUTE",
+    "clan_name": "Apple's Tree",
+    "member_count": 195,
+    "clan_invite": "https://discord.gg/applestree",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1094450071610863667/0fcf9a436df1a4b0de5644d3d42188e2.png?size=16"
+  },
+  {
+    "clan_tag": "FE!N",
+    "clan_name": "[中国人] Academy .gg/guildtag #FE!N",
+    "member_count": 195,
+    "clan_invite": "https://discord.gg/EGVN4GXRdP",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1258493011176718558/bc2f7685eed9d27522595f510bb2da48.png?size=16"
+  },
+  {
+    "clan_tag": "FED",
+    "clan_name": "Federal Bureau of Investigation",
+    "member_count": 195,
+    "clan_invite": "https://discord.gg/federals",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1231700112271736832/97688bbc6bf4752ed1d337464cc06983.png?size=16"
+  },
+  {
+    "clan_tag": "UWU",
+    "clan_name": "The Peach Hub 🍑",
+    "member_count": 195,
+    "clan_invite": "https://discord.gg/na4cAxuF",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/979566971312029697/40a7aa796426347d6b76d20dfed2c273.png?size=16"
+  },
+  {
+    "clan_tag": "ZXC",
+    "clan_name": ".gg/zxc",
+    "member_count": 195,
+    "clan_invite": "https://discord.gg/zxc",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1114673216363970612/49dfe09a3f3d2dfb0eba54824a5cb9da.png?size=16"
+  },
+  {
+    "clan_tag": "FE!N",
+    "clan_name": "HennyxGang (Guild)",
+    "member_count": 196,
+    "clan_invite": "https://discord.gg/hbJ3sp9",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/751496223810257047/fa3033cd0045a5cd34578fa4b9c69d8b.png?size=16"
+  },
+  {
+    "clan_tag": "LAME",
+    "clan_name": ".gg/lameclan",
+    "member_count": 196,
+    "clan_invite": "https://discord.gg/lameclan",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1004549591619874826/439c5b7117f3f3e8e574b4766d1b7e73.png?size=16"
+  },
+  {
+    "clan_tag": "NASA",
+    "clan_name": ".gg/nasaclan",
+    "member_count": 196,
+    "clan_invite": "https://discord.gg/nasaclan",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1221311531824975872/4f7cff0751063797812f88f5238127fa.png?size=16"
+  },
+  {
+    "clan_tag": "SEXY",
+    "clan_name": "hanae",
+    "member_count": 196,
+    "clan_invite": "https://discord.gg/Hu7GaXKB9R",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/997766522028175400/68c594f8b651e62f936de0cc7a5a54bd.png?size=16"
+  },
+  {
+    "clan_tag": "XMAS",
+    "clan_name": "BDB",
+    "member_count": 196,
+    "clan_invite": "https://discord.gg/n8AnZ438pG",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1239513536405700630/d8028e3189542f9cd218c28373bc178a.png?size=16"
+  },
+  {
+    "clan_tag": ":3",
+    "clan_name": ":3",
+    "member_count": 197,
+    "clan_invite": "https://discord.gg/rmJhjHzK5d",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/938028187743584307/e701df75ce906698f0d02ce19bf7c8c6.png?size=16"
+  },
+  {
+    "clan_tag": "999",
+    "clan_name": ".gg/12g (#999)",
+    "member_count": 197,
+    "clan_invite": "https://discord.gg/ZKCS4QSKup",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1138670083321905212/bb6f447245dd4c9243d2aeb61d26154d.png?size=16"
+  },
+  {
+    "clan_tag": "BACN",
+    "clan_name": "Canadian Bacon",
+    "member_count": 197,
+    "clan_invite": "https://discord.gg/bd2vdvh9",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/995415715836330004/310d9b669d687de773b5f3b5310ca1f3.png?size=16"
+  },
+  {
+    "clan_tag": "cat",
+    "clan_name": "Cat ♾",
+    "member_count": 197,
+    "clan_invite": "https://discord.gg/catz",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1135650875650625587/40a7aa796426347d6b76d20dfed2c273.png?size=16"
+  },
+  {
+    "clan_tag": "DEV",
+    "clan_name": "Maplewood",
+    "member_count": 197,
+    "clan_invite": "https://discord.gg/V5wTX8BSh3",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1112440968491323485/8e228078dc56d4ad8bdccb696d4e90be.png?size=16"
+  },
+  {
+    "clan_tag": "FAME",
+    "clan_name": ".gg/fameclan",
+    "member_count": 197,
+    "clan_invite": "https://discord.gg/fameclan",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1096623090831724686/f6c0ddb8f91d38eb9623f30f2b1dd3c7.png?size=16"
+  },
+  {
+    "clan_tag": "FRKY",
+    "clan_name": "Malware Cult Associates Guild Server",
+    "member_count": 197,
+    "clan_invite": "https://discord.gg/MBvSxyD7Dh",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1192137758110654474/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=16"
+  },
+  {
+    "clan_tag": "goob",
+    "clan_name": "Goober³",
+    "member_count": 197,
+    "clan_invite": "https://discord.gg/XkxYdDn3",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/973649956588105779/57105dd5d54ebb9faef5e1b90c3768e1.png?size=16"
+  },
+  {
+    "clan_tag": "HABI",
+    "clan_name": "The Night Club",
+    "member_count": 197,
+    "clan_invite": "https://discord.gg/jnFTy3NV",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1005285318376824923/60695e0f6c7a5b9eb60a5be14d471158.png?size=16"
+  },
+  {
+    "clan_tag": "MEOW",
+    "clan_name": ".gg/aizen (#MEOW)",
+    "member_count": 197,
+    "clan_invite": "https://discord.gg/zS8qWknqXg",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1235256947444289626/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=16"
+  },
+  {
+    "clan_tag": "Staﬀ",
+    "clan_name": "Shapen's Empire (.gg/staffs)",
+    "member_count": 197,
+    "clan_invite": "https://discord.gg/staffs",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/925274403984506880/6a829634910fca34b3d90e74dc3a3fc8.png?size=16"
+  },
+  {
+    "clan_tag": "さみしい",
+    "clan_name": "#さみしい .gg/packer",
+    "member_count": 197,
+    "clan_invite": "https://discord.gg/eB3m2EMFxE",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1259610557074636852/e701df75ce906698f0d02ce19bf7c8c6.png?size=16"
+  },
+  {
+    "clan_tag": "ど・・つ",
+    "clan_name": "𓈒    ✿   　太宰      /hualian       .◞",
+    "member_count": 197,
+    "clan_invite": "https://discord.gg/hualian",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1124490256025125014/232d1d2a366ec512dde707821f672cce.png?size=16"
+  },
+  {
+    "clan_tag": ":)",
+    "clan_name": "• Bunk / :) •",
+    "member_count": 198,
+    "clan_invite": "https://discord.gg/bexky",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1265419117792464937/4bf1783e4561b1823dd93bf0acf0d7ae.png?size=16"
+  },
+  {
+    "clan_tag": ":RE",
+    "clan_name": ".gg/rinkaku owns #:RE.",
+    "member_count": 198,
+    "clan_invite": "https://discord.gg/UJqhaEJpBv",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1110397554027417630/40a7aa796426347d6b76d20dfed2c273.png?size=16"
+  },
+  {
+    "clan_tag": "^_^",
+    "clan_name": "﹙⁺⊹₊﹚",
+    "member_count": 198,
+    "clan_invite": "https://discord.gg/mreow",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/893917279178346497/065cfe06ef550d9171b4556a3c12ba9d.png?size=16"
+  },
+  {
+    "clan_tag": "﷽﷽﷽﷽",
+    "clan_name": ".gg/freetags [﷽]",
+    "member_count": 198,
+    "clan_invite": "https://discord.gg/BPfr9wbBvz",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1253001575572705321/285d63b0e830b8ae775f712f66d4f851.png?size=16"
+  },
+  {
+    "clan_tag": "﷽﷽﷽﷽",
+    "clan_name": ".gg/bend (#﷽﷽﷽﷽)",
+    "member_count": 198,
+    "clan_invite": "https://discord.gg/solarlong",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/966137238880682145/6f154e3e0ab81d0ad14a642e800f94dc.png?size=16"
+  },
+  {
+    "clan_tag": "$$",
+    "clan_name": ".gg/lone #$$",
+    "member_count": 198,
+    "clan_invite": "https://discord.gg/and",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/964903910663913512/48d0dfb19d9f500ba91ed6c8ce7bcd1b.png?size=16"
+  },
+  {
+    "clan_tag": "Deaᵺ",
+    "clan_name": "#death .gg/packer",
+    "member_count": 198,
+    "clan_invite": "https://discord.gg/fTxjupcBu2",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1059221121372786738/79366e8660935912726217b413fcc19b.png?size=16"
+  },
+  {
+    "clan_tag": "FISH",
+    "clan_name": "🎄 NeetWorks °Д°",
+    "member_count": 198,
+    "clan_invite": "https://discord.gg/bZbHAdds53",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/244023968158318592/7b571a46a1266491cfabe2e362aad176.png?size=16"
+  },
+  {
+    "clan_tag": "FSTV",
+    "clan_name": "Festive Klados-4 🎄",
+    "member_count": 198,
+    "clan_invite": "https://discord.gg/klados",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1262145140605059194/290b35600d335b38271fb5e3996d02bb.png?size=16"
+  },
+  {
+    "clan_tag": "FUN",
+    "clan_name": "Fun House",
+    "member_count": 198,
+    "clan_invite": "https://discord.gg/bqxBTPfK48",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/846417051085570069/7f8f9af96f2a1549f4d7ba59fe43f44a.png?size=16"
+  },
+  {
+    "clan_tag": "HE$I",
+    "clan_name": "no hesi",
+    "member_count": 198,
+    "clan_invite": "https://discord.gg/hesi",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1262925088374915204/b1a70b12c9fc93280fd0f46b4365019c.png?size=16"
+  },
+  {
+    "clan_tag": "huh",
+    "clan_name": "Alter Ego's Coding Den",
+    "member_count": 198,
+    "clan_invite": "https://discord.gg/MrHY84Ce",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/279848886971924480/dea97e909a0211e2479d75cd11c2ec41.png?size=16"
+  },
+  {
+    "clan_tag": "meow",
+    "clan_name": "meowie",
+    "member_count": 198,
+    "clan_invite": "https://discord.gg/catzu",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1068740533087895573/86ba16d13446a8d5e298b86fc116b113.png?size=16"
+  },
+  {
+    "clan_tag": "PNDY",
+    "clan_name": "・PNDY",
+    "member_count": 198,
+    "clan_invite": "https://discord.gg/pandy",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1267476048338227333/751d8fe38fe38c3fe70abedbc5549bd2.png?size=16"
+  },
+  {
+    "clan_tag": "SEXY",
+    "clan_name": "Festive Hub🎄 (.gg/freakyhub)",
+    "member_count": 198,
+    "clan_invite": "https://discord.gg/fHMP2X5rzW",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1248123475122720868/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=16"
+  },
+  {
+    "clan_tag": "SHED",
+    "clan_name": "Shed's Asylum",
+    "member_count": 198,
+    "clan_invite": "https://discord.gg/nY9DA9MM",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/671135737797935174/324382a2d7b4e2547ac3976557241ea2.png?size=16"
+  },
+  {
+    "clan_tag": "VIBE",
+    "clan_name": "Nah I'd Gift",
+    "member_count": 198,
+    "clan_invite": "https://discord.gg/nahidvibe",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1209125186557706281/036318f5bceb10bfe89d1514ea2ba6c7.png?size=16"
+  },
+  {
+    "clan_tag": "X's",
+    "clan_name": "Cigarettes After Sex (.gg/Swrd)",
+    "member_count": 198,
+    "clan_invite": "https://discord.gg/Swrd",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1254423549364539452/80e5e6bdbdd81e95b650670b2afba2cc.png?size=16"
+  },
+  {
+    "clan_tag": ":3",
+    "clan_name": "The Tagest Guild [.gg/GUssEEppbx] ﷽﷽﷽﷽﷽﷽",
+    "member_count": 199,
+    "clan_invite": "https://discord.gg/GUssEEppbx",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1127094198567452772/e49cbe2d3c213af9f285d99ecdbb56cf.png?size=16"
+  },
+  {
+    "clan_tag": "「死」",
+    "clan_name": "[中国人] Academy .gg/guildtag #「死」",
+    "member_count": 199,
+    "clan_invite": "https://discord.gg/shura",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/877794651413819402/13a9ba07ae45fbf026f87d65119a293b.png?size=16"
+  },
+  {
+    "clan_tag": "˖🪻⁺",
+    "clan_name": "⁺﹒discord.gg/lunalilac﹗𖹭﹒⁺",
+    "member_count": 199,
+    "clan_invite": "https://discord.gg/S4RwWGU98B",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1068342105006673972/439c5b7117f3f3e8e574b4766d1b7e73.png?size=16"
+  },
+  {
+    "clan_tag": "1337",
+    "clan_name": "1337 ・ Private 🎄",
+    "member_count": 199,
+    "clan_invite": "https://discord.gg/1337fr",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1245364198536646796/bca72d1d79ee582008c2f036b8bcc1e5.png?size=16"
+  },
+  {
+    "clan_tag": "64",
+    "clan_name": "64Will64's Silly Guild",
+    "member_count": 199,
+    "clan_invite": "https://discord.gg/MXgu8z2cGA",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/818597363416432662/bdd6e56e8037bd1b1f84b83794405f37.png?size=16"
+  },
+  {
+    "clan_tag": "69",
+    "clan_name": "The Underground",
+    "member_count": 199,
+    "clan_invite": "https://discord.gg/chara",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1162482566046175342/8e228078dc56d4ad8bdccb696d4e90be.png?size=16"
+  },
+  {
+    "clan_tag": "Aura",
+    "clan_name": ".gg/DnK | #Aura",
+    "member_count": 199,
+    "clan_invite": "https://discord.gg/yADNP5j2Xc",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1206801719816880140/e05ecd5875a2e1daee2ed1df612462b5.png?size=16"
+  },
+  {
+    "clan_tag": "BALL",
+    "clan_name": "big",
+    "member_count": 199,
+    "clan_invite": "https://discord.gg/Ug8tmGAnpp",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1085029885199798292/64dc0623e49af5934afe0f3bedaf095b.png?size=16"
+  },
+  {
+    "clan_tag": "CAPY",
+    "clan_name": "Capybara Fan Club",
+    "member_count": 199,
+    "clan_invite": "https://discord.gg/FN6TERAU",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/972126416646860850/a096c02b558e6bcff7b1c10269fb6cd5.png?size=16"
+  },
+  {
+    "clan_tag": "Dev",
+    "clan_name": "DevCreates",
+    "member_count": 199,
+    "clan_invite": "https://discord.gg/rMzEEmq9CJ",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1229918796056105031/9e084fdf4aacea78cf80e727dbd1caac.png?size=16"
+  },
+  {
+    "clan_tag": "EGO",
+    "clan_name": ".gg/aizen (#EGO)",
+    "member_count": 199,
+    "clan_invite": "https://discord.gg/ph8qGNDvZD",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1244610093715296256/ba8a90eede32aca30ce7305dfb77b4cd.png?size=16"
+  },
+  {
+    "clan_tag": "EVIL",
+    "clan_name": "[中国人] Academy .gg/guildtag #EVIL",
+    "member_count": 199,
+    "clan_invite": "https://discord.gg/dcZhxK9hcJ",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1211210537795588126/e701df75ce906698f0d02ce19bf7c8c6.png?size=16"
+  },
+  {
+    "clan_tag": "EVIL",
+    "clan_name": "The Evil",
+    "member_count": 199,
+    "clan_invite": "https://discord.gg/theevil",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1200480361906454660/0dc4be4188effe6e6a7393f899e0997c.png?size=16"
+  },
+  {
+    "clan_tag": "ＥＶＩＬ",
+    "clan_name": "Evil Community #ＥＶＩＬ",
+    "member_count": 199,
+    "clan_invite": "https://discord.gg/evilgg",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1216821152828231802/e9eebc59f8cbb87d52e352e4fc1fd10d.png?size=16"
+  },
+  {
+    "clan_tag": "fafa",
+    "clan_name": "𝒇𝒂𝒇𝒂; 𝑬𝒎𝒐𝒋𝒊𝒔 • 𝒔𝒕𝒊𝒄𝒌𝒆𝒓𝒔 • 𝒑𝒇𝒑𝒔 & 𝒎𝒐𝒓𝒆 !",
+    "member_count": 199,
+    "clan_invite": "https://discord.gg/fafa",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1241482752663097395/0262ef6632b26b09d0c83252b630afa4.png?size=16"
+  },
+  {
+    "clan_tag": "Hood",
+    "clan_name": "The Quiet Hood",
+    "member_count": 199,
+    "clan_invite": "https://discord.gg/7n9Q7ZQrQJ",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1022017500227051581/31803c18657804f38763c2fc70b567f8.png?size=16"
+  },
+  {
+    "clan_tag": "ily",
+    "clan_name": "ily",
+    "member_count": 199,
+    "clan_invite": "https://discord.gg/ilyguild",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/996900484956819526/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=16"
+  },
+  {
+    "clan_tag": "LEAN",
+    "clan_name": "tacos",
+    "member_count": 199,
+    "clan_invite": "https://discord.gg/kEjKhfnK",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1021580889106436137/439c5b7117f3f3e8e574b4766d1b7e73.png?size=16"
+  },
+  {
+    "clan_tag": "love",
+    "clan_name": "「cafe de killua」",
+    "member_count": 199,
+    "clan_invite": "https://discord.gg/nhhDKr6et5",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/922688004336791654/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=16"
+  },
+  {
+    "clan_tag": "MOON",
+    "clan_name": "Eclipse",
+    "member_count": 199,
+    "clan_invite": "https://discord.gg/guildeclipse",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/797944541247963166/74ef42c3169056e22b1c5bf975d07f48.png?size=16"
+  },
+  {
+    "clan_tag": "MOON",
+    "clan_name": "𝕸𝖔𝖔𝖓𝖑𝖎𝖌𝖍𝖙 ࿐",
+    "member_count": 199,
+    "clan_invite": "https://discord.gg/selene",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/759119735769006121/9b43d5ec59ffd0a187b7d343ac707643.png?size=16"
+  },
+  {
+    "clan_tag": "MRE",
+    "clan_name": "@MiddleRoadEnergy",
+    "member_count": 199,
+    "clan_invite": "https://discord.gg/ZqGcFggngg",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/966766375035084860/5408874bc0f6fd418f20151297c14297.png?size=16"
+  },
+  {
+    "clan_tag": "ONCE",
+    "clan_name": "The Girls | ONCE nation",
+    "member_count": 199,
+    "clan_invite": "https://discord.gg/we-are-once",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/652383473969004556/228d7a2a0d5b82b52e4433806514d76d.png?size=16"
+  },
+  {
+    "clan_tag": "osu!",
+    "clan_name": "The osu! fam",
+    "member_count": 199,
+    "clan_invite": "https://discord.gg/theosufam",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1145788388390211684/4a70f1c5606afd2cea3439176727f728.png?size=16"
+  },
+  {
+    "clan_tag": "RAWR",
+    "clan_name": "DoubleM",
+    "member_count": 199,
+    "clan_invite": "https://discord.gg/UYnCtCXTa5",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/974688342295871498/8bb236792e3cb2f8c195b4571a97b8e4.png?size=16"
+  },
+  {
+    "clan_tag": "Sily",
+    "clan_name": "i am jollycord2",
+    "member_count": 199,
+    "clan_invite": "https://discord.gg/bHPVzAmdp4",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1205892709445804062/439c5b7117f3f3e8e574b4766d1b7e73.png?size=16"
+  },
+  {
+    "clan_tag": "VG",
+    "clan_name": "Xmas Games™ Guild (/vgg)🌲",
+    "member_count": 199,
+    "clan_invite": "https://discord.gg/5rcfdEENss",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1151968214868295782/036a27b8bfc2e610e0c74802c295c969.png?size=16"
+  },
+  {
+    "clan_tag": "VIP",
+    "clan_name": "[中国人] Academy .gg/guildtag #VIP",
+    "member_count": 199,
+    "clan_invite": "https://discord.gg/qdw7c7MY7Q",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1190155004603023391/fddc13aeaefb47981821c9a92efc54fd.png?size=16"
+  },
+  {
+    "clan_tag": "不滅の者",
+    "clan_name": "Virtual Disappointments💔",
+    "member_count": 199,
+    "clan_invite": "https://discord.gg/axTqmWce",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/819985359010136145/b1dc33d557c4d3c9db80ac12762f5b9f.png?size=16"
+  },
+  {
+    "clan_tag": ";3",
+    "clan_name": "dj_mauricio",
+    "member_count": 200,
+    "clan_invite": "https://discord.gg/K8Up2uFg",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1115814275857010800/880f02763c57abb52db92e3360804a81.png?size=16"
+  },
+  {
+    "clan_tag": "˚　　草",
+    "clan_name": "[TL] Take Ls",
+    "member_count": 200,
+    "clan_invite": "https://discord.gg/6RbVN8N3fV",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1147045686026719284/68be43fff9e2c6ddb2de05cb2cd6d1d1.png?size=16"
+  },
+  {
+    "clan_tag": "bffr",
+    "clan_name": "Betta Fish Fighting Ring",
+    "member_count": 200,
+    "clan_invite": "https://discord.gg/UE8JRG56",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1059451151776481331/60822eb8c504c45cee27680dbccf599b.png?size=16"
+  },
+  {
+    "clan_tag": "BONK",
+    "clan_name": "DeiConatus︱Singularity",
+    "member_count": 200,
+    "clan_invite": "https://discord.gg/Ae3fNsea",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1213914829199253544/9c410e6b8a79447a0c79b897f5e79ecc.png?size=16"
+  },
+  {
+    "clan_tag": "BSMT",
+    "clan_name": "the basement",
+    "member_count": 200,
+    "clan_invite": "https://discord.gg/2xnZA27UKp",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/592435296273039392/9ab6db34435d92164cf71de2ddd7c494.png?size=16"
+  },
+  {
+    "clan_tag": "cats",
+    "clan_name": ".gg/kangtaehyun | adore",
+    "member_count": 200,
+    "clan_invite": "https://discord.gg/qN5XGY6dEu",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1110710581771653160/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=16"
+  },
+  {
+    "clan_tag": "CULT",
+    "clan_name": "CULT",
+    "member_count": 200,
+    "clan_invite": "https://discord.gg/YZtuZxu",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/599360204123144233/6ed907032e3a22a1cd30d3f61a5cd96e.png?size=16"
+  },
+  {
+    "clan_tag": "DILF",
+    "clan_name": "𝘐𝘧 𝘺𝘰𝘶 𝘭𝘪𝘬𝘦 𝘱𝘪𝘯𝘢 𝘤𝘰𝘭𝘢𝘥𝘢𝘴",
+    "member_count": 200,
+    "clan_invite": "https://discord.gg/6TzZHnXuFK",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1159631059063935007/a298c1124b18c32e0823e81c65ffd42c.png?size=16"
+  },
+  {
+    "clan_tag": "DUDE",
+    "clan_name": "Dude's Guild",
+    "member_count": 200,
+    "clan_invite": "https://discord.gg/jfu2ZKs3GQ",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1228733932090949742/a3290d71cdc373a5f63598746c8f1476.png?size=16"
+  },
+  {
+    "clan_tag": "eics",
+    "clan_name": "emails i can’t send",
+    "member_count": 200,
+    "clan_invite": "https://discord.gg/aR7vsqxqwy",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1259927738719141900/c0ad0fe5b8eed9fb52c213dcae515699.png?size=16"
+  },
+  {
+    "clan_tag": "GAYS",
+    "clan_name": "Spooky Central わっ",
+    "member_count": 200,
+    "clan_invite": "https://discord.gg/4SjS8Fjg",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/213506052736548865/439c5b7117f3f3e8e574b4766d1b7e73.png?size=16"
+  },
+  {
+    "clan_tag": "harm",
+    "clan_name": "harm",
+    "member_count": 200,
+    "clan_invite": "https://discord.gg/harmm",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1218455725139824670/c218b19910cf26fd4aade63bbe4ace29.png?size=16"
+  },
+  {
+    "clan_tag": "Krby",
+    "clan_name": "Sho's Gaming Space",
+    "member_count": 200,
+    "clan_invite": "https://discord.gg/GUQYHSJF3j",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1002311719688880198/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=16"
+  },
+  {
+    "clan_tag": "LOVE",
+    "clan_name": "Safiyya Hood",
+    "member_count": 200,
+    "clan_invite": "https://discord.gg/uFmW2qkvmS",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/993140744565043241/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=16"
+  },
+  {
+    "clan_tag": "Moon",
+    "clan_name": "Forsaken Borders",
+    "member_count": 200,
+    "clan_invite": "https://discord.gg/2byhgDnk",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/832354798153236510/f09dccb8074d3c1a3bccadff9ceee10b.png?size=16"
+  },
+  {
+    "clan_tag": "MOSS",
+    "clan_name": "୨˙୧ 𝑺𝒚𝒍𝒗𝒂𝒏 𝑴𝒐𝒔𝒔𝒘𝒐𝒐𝒅 ୨˙୧ 🌱",
+    "member_count": 200,
+    "clan_invite": "https://discord.gg/4DdcD3Qkdc",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1248858129593143336/3770e567f30b2178d123a7d789228611.png?size=16"
+  },
+  {
+    "clan_tag": "nsfw",
+    "clan_name": "NSFW",
+    "member_count": 200,
+    "clan_invite": "https://discord.gg/donald",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1213149133381312544/068dff1942aa82caa43c48620e625616.png?size=16"
+  },
+  {
+    "clan_tag": "ORCR",
+    "clan_name": "Danyal's Gaming",
+    "member_count": 200,
+    "clan_invite": "https://discord.gg/HGjS4hUk9Z",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/898556273870659594/532f03d8525bb73f398cc60799a14b4c.png?size=16"
+  },
+  {
+    "clan_tag": "PacK",
+    "clan_name": "PacK’s Portal ⭐",
+    "member_count": 200,
+    "clan_invite": "https://discord.gg/34uvSprRJ8",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/930953096815845376/a3290d71cdc373a5f63598746c8f1476.png?size=16"
+  },
+  {
+    "clan_tag": "POW!",
+    "clan_name": "The Power",
+    "member_count": 200,
+    "clan_invite": "https://discord.gg/39NkSS5F",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/937430895709786183/a983ebfcc8dcd7364ef708927b1456db.png?size=16"
+  },
+  {
+    "clan_tag": "RAIN",
+    "clan_name": "Rain",
+    "member_count": 200,
+    "clan_invite": "https://discord.gg/55vt6zJhSP",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/929469057516834827/4fef68277afadf04ca7806fd3138fc8a.png?size=16"
+  },
+  {
+    "clan_tag": "SL",
+    "clan_name": "Silhouette's Lair",
+    "member_count": 200,
+    "clan_invite": "https://discord.gg/2f8WrxPKAk",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/908977609113763870/d8984b100080956ebf03576f3661518d.png?size=16"
+  },
+  {
+    "clan_tag": "VITY",
+    "clan_name": "Hyeongjun’s Universe",
+    "member_count": 200,
+    "clan_invite": "https://discord.gg/7MrEnWjXP8",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1237252779907743846/439c5b7117f3f3e8e574b4766d1b7e73.png?size=16"
+  },
+  {
+    "clan_tag": "WOLF",
+    "clan_name": "The Wolf Pack",
+    "member_count": 200,
+    "clan_invite": "https://discord.gg/Frq5VqNk8k",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/971389388795822140/3f7773f4557ebd8c986280eb0a5df75f.png?size=16"
+  },
+  {
+    "clan_tag": "zers",
+    "clan_name": "ze-resturant :]",
+    "member_count": 200,
+    "clan_invite": "https://discord.gg/uJuSgWGv5Q",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/878843929863270400/3da695a3845833b28878ed0d3d86dec6.png?size=16"
+  },
+  {
+    "clan_tag": "ٴٴٴ",
+    "clan_name": "⟡﹒kyutie",
+    "member_count": 200,
+    "clan_invite": "https://discord.gg/kyutie",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/861102584453529631/e701df75ce906698f0d02ce19bf7c8c6.png?size=16"
+  },
+  {
+    "clan_tag": "ᓚᘏᗢ",
+    "clan_name": "biting",
+    "member_count": 200,
+    "clan_invite": "https://discord.gg/biting",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1065670266660851713/e701df75ce906698f0d02ce19bf7c8c6.png?size=16"
+  },
+  {
+    "clan_tag": "ᓚᘏᗢ",
+    "clan_name": "PinkOrise Shack",
+    "member_count": 200,
+    "clan_invite": "https://discord.gg/dM4fe8zN6F",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/970491874450214923/ec60c5e6d1f14d3bbff586e2e0b9e54e.png?size=16"
+  },
+  {
+    "clan_tag": "サクラ",
+    "clan_name": "Sakura Temple",
+    "member_count": 200,
+    "clan_invite": "https://discord.gg/qcCCpxgknJ",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1237906386587877396/b59336189cba86c4fee01b826e5f2324.png?size=16"
+  },
+  {
+    "clan_tag": "ネオン",
+    "clan_name": "NeonKokoro Community - Server 1",
+    "member_count": 200,
+    "clan_invite": "https://discord.gg/pQkzPBh5",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1090086458003570761/0dc39ee7261f3ef1d4f5882ddb02357a.png?size=16"
+  },
+  {
+    "clan_tag": "ママたち",
+    "clan_name": "/iluvuᥫ᭡",
+    "member_count": 200,
+    "clan_invite": "https://discord.gg/ZEtdDFxa",
+    "guild_icon": "https://cdn.discordapp.com/clan-badges/1121265108023250944/f3e6123daa386d49b99abd0e2fe6a6e6.png?size=16"
+  }
+]
